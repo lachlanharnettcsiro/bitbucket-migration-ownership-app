@@ -1,0 +1,58 @@
+---
+title: "Bitbucket Repository Claim"
+output: blastula::blastula_email
+params:
+  BB_IDs: NULL
+  message: NULL
+  user: NULL
+---
+
+Hi Bitbucket Migration Team,
+
+The following repository IDs have been claimed:
+
+```{r}
+#| error: false
+#| warning: false
+#| message: false
+#| echo: false
+#| results: 'asis'
+
+library(knitr)
+library(kableExtra)
+library(htmltools)
+
+# Convert BB_IDs vector into a data frame for display
+if (!is.null(params$BB_IDs) && length(params$BB_IDs) > 0) {
+  df <- data.frame(BB_ID = params$BB_IDs)
+  
+  kable(df, format = "html") %>%
+    kable_styling(
+      full_width = FALSE,
+      font_size = 10
+    ) %>%
+    row_spec(
+      0,  # header row
+      background = "#e0e0e0",
+      bold = TRUE
+    )
+} else {
+  HTML("No repository IDs were selected.")
+}
+```
+
+The user (`r params$user`) has included the following details:
+
+```{r}
+#| error: false
+#| warning: false
+#| message: false
+#| echo: false
+
+if (!is.null(params$message) && nchar(params$message) > 0) {
+  HTML(params$message)
+} else {
+  HTML("No additional message provided.")
+}
+```
+

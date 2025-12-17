@@ -1,0 +1,812 @@
+BB_ID,BB_Project,BB_Repo,Possible_BU,Possible_Owner,Confirmed_Owner,Most_Commits,Repo_Info_Link,Notes
+13251,AAPDEVBC,glorikeet-admin,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13251.info.txt>13251</a>,ARCHIVED
+13432,AAPDEVBC,lorikeet-documentation,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13432.info.txt>13432</a>,ARCHIVED
+13467,AAPDEVBC,lorikeet-ui-components,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13467.info.txt>13467</a>,ARCHIVED
+13549,AAPDEVBC,xes-bc,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13549.info.txt>13549</a>,ARCHIVED
+13786,AAPDEVBC,lorikeet-bpmn-replayer,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13786.info.txt>13786</a>,ARCHIVED
+13741,AAP,aap-devops-scripts,DATA61,    Author: 1 An Binh Tran <anbinh.tran@data61.csiro.au>,,,,
+13629,AC,libuvc,UNKNOWN - possible mirror,    Author: 59 Ken Tossell <ken@tossell.net>,,,,
+13054,ADAIT,transport-trip-service,DATA61,"    Author: 23 Ng, Janice (Data61, Eveleigh ATP) <Janice.Ng@data61.csiro.au>",,,,
+13097,ADAIT,transit-assignment-data-pipeline,DATA61,    Author: 36 Adrian Plani <adrian.plani@data61.csiro.au>,,,,
+13143,ADAIT,geometry-utils,UNKNOWN - possible mirror,    Author: 20 Jenkins <jenkins@adait.io>,,,,
+13283,ADAIT,transurban-prediction,DATA61,"    Author: 3 Bentley, Christopher (Data61, Eveleigh ATP) <Christopher.Bentley@data61.csiro.au>",,,,
+13305,ADAIT,zz-date-time-utils,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13382,ADAIT,almanac,DATA61,"    Author: 9 Ng, Janice (Data61, Eveleigh ATP) <Janice.Ng@data61.csiro.au>",,,,
+13433,ADAIT,transurban-app,DATA61,    Author: 31 Adrian Plani <adrian.plani@data61.csiro.au>,,,,
+13654,ADAIT,kepler.gl,UNKNOWN - possible mirror,    Author: 123 Shan He <heshan0131@gmail.com>,,,,
+13386,~ADH009,dashboard,DATA61,"    Author: 443 Yamamoto, Yuji (Data61, Sandy Bay) <Yuji.Yamamoto@data61.csiro.au>",,,,
+13169,AGHA,gdr-demo,CSIRO H&B,    Author: 1 David Conlan <david.conlan@csiro.au>,,,,
+13709,AGHA,pedigreeeditorredcapmodule,CSIRO H&B,    Author: 11 David Conlan <david.conlan@csiro.au>,,,,
+13722,AGHA,fhircap-rules,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+1323,AGRO,custom_cost,UNKNOWN - possible mirror,    Author: 3 Administrator <administrator@dusky.(none)>,,,,
+1379,AIBL,aibl,CSIRO Digital,"    Author: 4 Gibson, Simon (Digital, Herston - RBWH) <Simon.Gibson@csiro.au>",,,,
+13118,AIS,ingest,UNKNOWN - possible mirror,    Author: 19 Sven Dowideit <SvenDowideit@home.org.au>,,,,
+13049,~ALI030,snapcap-flaskgui,DATA61,"    Author: 3 Aliakbarian, Sadegh Aliakbarian (Data61, Black Mountain) <Sadegh.Aliakbarian@data61.csiro.au>",,,,
+13018,~AND490,hpbeacon,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13018.info.txt>13018</a>,ARCHIVED
+13047,~AND490,b2p-watchdog-ui,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13047.info.txt>13047</a>,ARCHIVED
+13145,~AND490,hpbeacon-uwp,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13145.info.txt>13145</a>,ARCHIVED
+13146,~AND490,tempowatcher,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13146.info.txt>13146</a>,ARCHIVED
+13379,~AND490,b2p-processing,DATA61,    Author: 2 Stuart Anderson <Stuart.Anderson@data61.csiro.au>,,,,
+13699,~AND490,imaxes2019,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13699.info.txt>13699</a>,ARCHIVED
+13705,~AND490,jolecule,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13705.info.txt>13705</a>,ARCHIVED
+13706,~AND490,jolecule-vr,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13706.info.txt>13706</a>,ARCHIVED
+13803,~AND490,cctv-web,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13803.info.txt>13803</a>,ARCHIVED
+13954,~AND490,test-web-proj,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13954.info.txt>13954</a>,ARCHIVED
+13991,~AND490,fusemate-develop,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13991.info.txt>13991</a>,ARCHIVED
+13838,APPS,dap_deposit_ui,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13838.info.txt>13838</a>,ARCHIVED
+13450,~ARE014,deploy-jupyterlab,CSIRO Environment,    Author: 49 Alessio Arena <are014@csiro.au>,,,,
+13488,~ARE014,transit_data_analysis,CSIRO L&W,"    Author: 2 Arena, Alessio (L&W, Clayton) <Alessio.Arena@csiro.au>",,,,
+13582,~ARE014,bal-calculator,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13582.info.txt>13582</a>,ARCHIVED
+13737,~ARE014,arcpy_extensions,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13737.info.txt>13737</a>,ARCHIVED
+13019,ARGO,owc_2,CSIRO O&A,"    Author: 5 Johnson, Catriona (O&A, Hobart) <Catriona.Johnson@csiro.au>",,,,
+13093,ASAPP,nvidia_jetpack_docker,DATA61,    Author: 27 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13144,ASC,biomass_shiny,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13144.info.txt>13144</a>,ARCHIVED
+13390,ASC,grafana_cloudalchemy,CSIRO IM&T,    Author: 57 Gareth Williams <gareth.williams@csiro.au>,,,,
+13552,ASC,errfp-761_ocean_satellite_workflows,CSIRO IM&T,    Author: 21 Joel Ludbey <lud024@oa-45-cdc.it.csiro.au>,,,,
+13596,ASC,cpsr_viewer,CSIRO IM&T,    Author: 83 Daniel Collins <daniel.collins@csiro.au>,,,,
+13680,ASC,osync-swarm-stack,CSIRO User Left,    Author: 6 Ludbey <lud024@csiro.au>,,,,
+13690,ASC,docker-swarm-ansible,CSIRO IM&T,    Author: 2 Joel Ludbey <lud024@sc-27-mel.it.csiro.au>,,,,
+13695,ASC,auth0-connector,CSIRO generic,    Author: 10 Maciej Golebiewski <maciej.golebiewski@csiro.au>,,,,
+13787,ASC,shiny-by-the-numbers,CSIRO IM&T,"    Author: 8 Russell, Chris (IM&T, Eveleigh) <Christopher.Russell@csiro.au>",,,,
+13958,ASC,stripe-subscription,CSIRO generic,    Author: 9 Maciej Golebiewski <maciej.golebiewski@csiro.au>,,,,
+13977,ASC,swarm-stack-management,CSIRO IM&T,    Author: 8 Ludbey <lud024@csiro.au>,,,,
+13994,ASC,swarm-stack-log,CSIRO A&F,    Author: 9 Ludbey <lud024@csiro.au>,,,,
+13995,ASC,swarm-stack-monitor,CSIRO A&F,    Author: 10 Ludbey <lud024@csiro.au>,,,,
+13064,ASKAPSDP,askapsoft-svn,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13064.info.txt>13064</a>,ARCHIVED
+13125,ASKAPSDP,askap-pipelinetasks,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13125.info.txt>13125</a>,ARCHIVED
+13147,ASKAPSDP,base-components,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13147.info.txt>13147</a>,ARCHIVED
+13311,ASKAPSDP,askap-analysis,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13311.info.txt>13311</a>,ARCHIVED
+13363,ASKAPSDP,busyfit,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13363.info.txt>13363</a>,ARCHIVED
+13469,ASKAPSDP,askap-services,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13469.info.txt>13469</a>,ARCHIVED
+13533,ASKAPSDP,askap-docs,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13533.info.txt>13533</a>,ARCHIVED
+13615,ASKAPSDP,askap-interfaces,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13615.info.txt>13615</a>,ARCHIVED
+13167,ASPC,dss_design_lib,DATA61,    Author: 8 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13191,ASPC,pacp-vm,DATA61,    Author: 82 Jesse Dennis <jesse.dennis@data61.csiro.au>,,,,
+13256,ASPC,flask-webserver-docker-template,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13298,ASPC,pacp-tensorflowlite,CSIRO generic,    Author: 1 Nicholas Heaney <nic.heaney@csiro.au>,,,,
+13429,ASPC,deep-learning-toolbox,DATA61,"    Author: 5 Do, Brendan (Data61, Pullenvale) <Brendan.Do@data61.csiro.au>",,,,
+13452,ASPC,arduino-energy-harvesting,DATA61,    Author: 7 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13464,ASPC,pacp-parser,DATA61,    Author: 33 Anton Schieber <anton.schieber@data61.csiro.au>,,,,
+13482,ASPC,pacp-rpc,DATA61,    Author: 45 Jonathan Chang <jonathan.chang@data61.csiro.au>,,,,
+13483,ASPC,pacp-device-provisioning-server-old,DATA61,    Author: 32 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13484,ASPC,pacp-csiro-ieeemac-manager,DATA61,    Author: 30 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13541,ASPC,annotation-tool-client,DATA61,    Author: 49 Jonathan Chang <jonathan.chang@data61.csiro.au>,,,,
+13544,ASPC,annotation-tool-server,DATA61,    Author: 19 Jonathan Chang <jonathan.chang@data61.csiro.au>,,,,
+13547,ASPC,causalitynetwork,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13588,ASPC,pacp-shallowml,DATA61,"    Author: 4 Currie, Lachlan (Data61, Pullenvale) <lachlan.currie@data61.csiro.au>",,,,
+1363,ASPC,biobad2015,CSIRO DP&S,"    Author: 10 Liu, Jiajun (DP&S, Pullenvale) <Jiajun.Liu@csiro.au>",,,,
+13666,ASPC,turtle-tag-code,DATA61,"    Author: 4 Riddell, Josh (Data61, Pullenvale) <Josh.Riddell@data61.csiro.au>",,,,
+13790,ASPC,pacp-tdf,CSIRO generic,    Author: 6 Nicholas Heaney <nic.heaney@csiro.au>,,,,
+13914,ASPC,globalstar-flask-server,DATA61,"    Author: 16 Scolaro, John (Data61, Pullenvale) <John.Scolaro@data61.csiro.au>",,,,
+13944,ASPC,pacp-device-provisioning-server,DATA61,    Author: 34 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13419,ASPROJ,laser_timing_firmware,DATA61,"    Author: 33 Wood, Brett (Data61, Pullenvale) <Brett.Wood@data61.csiro.au>",,,,
+13743,ASRIS,sites,CSIRO Environment,    Author: 25 Ramneek Singh <ramneek.singh@csiro.au>,,,,
+13248,ASROS,livoxlidarros,UNKNOWN - possible mirror,    Author: 17 Livox-SDK <dev@livoxtech.com>,,,,
+13418,ASROS,velodyne_ctrl,DATA61<,    Author: 8 Dennis Frousheger <dennis.frousheger@csiro.au>,,,,
+13431,ASROS,axis_camera,UNKNOWN - possible mirror,    Author: 20 Jack O'Quin <jack.oquin@gmail.com>,,,,
+13824,ASROS,wrasl,CSIRO User Left,    Author: 6 Riley Bowyer <bow370@csiro.au>,,,,
+13905,ASROS,titan_gazebo,DATA61,    Author: 40 Tom Molnar <tom.molnar@data61.csiro.au>,,,,
+13939,ASROS,rviz_image_select,DATA61,    Author: 3 Tom Hines <tom.hines@data61.csiro.au>,,,,
+13940,ASROS,rviz_topic_view,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13940.info.txt>13940</a>,ARCHIVED
+13734,ASR,colcon-example,CSIRO generic,    Author: 3 Kazys Stepanas <kazys.stepanas@csiro.au>,,,,
+13885,ASR,ras,DATA61,"    Author: 80 Penfold, Dean (Data61, Pullenvale) <Dean.Penfold@data61.csiro.au>",,,,
+1321,ASSTUD,uav-tether-system,CSIRO Digital,"    Author: 11 Kim, David (Digital, Pullenvale) <David.Kim@csiro.au>",,,,
+13196,ASTELMA,web_app,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13196.info.txt>13196</a>,ARCHIVED
+13904,AUW,app-view-controller,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13904.info.txt>13904</a>,ARCHIVED
+13314,B2P,b2p-processing,DATA61,"    Author: 17 Li, Ron (Data61, Marsfield) <Ron.Li@data61.csiro.au>",,,,
+13332,B2P,pi-tempo-scan,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13332.info.txt>13332</a>,ARCHIVED
+13414,B2P,b2p-processing-docker,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13414.info.txt>13414</a>,ARCHIVED
+13455,B2P,b2p-camera-sim,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13455.info.txt>13455</a>,ARCHIVED
+13522,B2P,b2p-watchdog,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13522.info.txt>13522</a>,ARCHIVED
+13724,B2P,b2p-analysis,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13724.info.txt>13724</a>,ARCHIVED
+13400,~BAI203,powershell,CSIRO IM&T,"    Author: 4 Bainrot, Max (IM&T, Black Mountain) <Max.Bainrot@csiro.au>",,,,
+13000,~BAL246,dawr_monthly_reports,CSIRO Energy,    Author: 3 Biswajit Bala <bal246@csiro.au>,,,,
+13990,~BAN133,x2b-migration---bal,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13990.info.txt>13990</a>,ARCHIVED
+13415,BARS,ingvordsen2019,UNKNOWN - possible mirror,    Author: 6 Alex Whan <alexwhan@gmail.com>,,,,
+13280,~BAT161,final_code_pytorch_2d_unets,CSIRO H&B,"    Author: 16 Bateriwala, Malav (H&B, Herston - RBWH) <Malav.Bateriwala@csiro.au>",,,,
+1341,BA,playground,CSIRO L&W,"    Author: 9 Singh, Ramneek (L&W, Black Mountain) <Ramneek.Singh@csiro.au>",,,,
+13946,BAWP,junk,CSIRO IM&T,    Author: 3 Gareth Williams <gareth.williams@csiro.au>,,,,
+13347,~BAY041,bitepi,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13347.info.txt>13347</a>,ARCHIVED
+1334,BCSL,hexapod_control,CSIRO generic,    Author: 13 Gavin Catt <Gavin.Catt@csiro.au>,,,,
+1335,BCSL,robot_interaction_library,CSIRO generic,    Author: 10 Gavin Catt <Gavin.Catt@csiro.au>,,,,
+13052,~BEN29W,rick-seija-util,CSIRO IM&T,"    Author: 2 Benn, David (IM&T, Waite Campus) <David.Benn@csiro.au>",,,,
+13231,~BEN316,graph-based-travel-speed-prediction,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13181,~BEN.336,sample-repo,UNKNOWN - possible mirror,    Author: 1 Ben McPhail <ben@benmcphail.com>,,,,
+13921,~BER124,test,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13037,BLEAT,lorawan-range-testing,DATA61,    Author: 37 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13294,BLEAT,pi-gateway,DATA61,"    Author: 3 Malik, Rohan (Data61, Pullenvale) <Rohan.Malik@data61.csiro.au>",,,,
+13378,BLEAT,bleat-loraserver-bridge-docker-no-azure,CSIRO A&F,    Author: 33 Jace <jace.galvin@csiro.au>,,,,
+13427,BLEAT,bleat-loraserver-bridge-docker,DATA61<,    Author: 42 Jace <jace.galvin@csiro.au>,,,,
+13428,BLEAT,bleat-database-ingest-docker,DATA61<,    Author: 54 Jace <jace.galvin@csiro.au>,,,,
+13459,BLEAT,pi-gateway-docker,CSIRO User Left,    Author: 93 Jace <jace.galvin@csiro.au>,,,,
+13566,BLEAT,bleat-web-server,DATA61,    Author: 29 Karl Von Richter <karl.vonrichter@data61.csiro.au>,,,,
+13648,BLEAT,bleat-loraserver-range-testing-docker,CSIRO IM&T,    Author: 44 Jace <jace.galvin@csiro.au>,,,,
+13822,~BON132,transit-enterprises,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13227,~BOU124,siemens,CSIRO DP&S,"    Author: 6 Pierrick, Bourgeat (DP&S, Herston - RBWH) <Pierrick.Bourgeat@csiro.au>",,,,
+13221,~BOW355,testrepo,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13468,~BOW355,bayes_acp_2013,CSIRO IM&T,"    Author: 3 Bowden, Josh (IM&T, St. Lucia) <Josh.Bowden@csiro.au>",,,,
+1376,~BOW355,fastcross,CSIRO IM&T,"    Author: 34 Bowden, Josh (IM&T, St. Lucia) <Josh.Bowden@csiro.au>",,,,
+1387,~BRO863,bluebox,UNKNOWN - possible mirror,    Author: 3 Maximus Oozenthor <Github@Wideopen.Biz>,,,,
+1388,~BRO863,corebot,UNKNOWN - possible mirror,    Author: 1 Maximus Oozenthor <Github@Wideopen.Biz>,,,,
+1389,~BRO863,bluebox-exe,CSIRO A&F,    Author: 2 unknown <bro863@WRASSE-CL.nexus.csiro.au>,,,,
+13137,~BRO868,snake-hpc-shim,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13137.info.txt>13137</a>,ARCHIVED
+13203,~BRO868,hpc-agent,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13203.info.txt>13203</a>,ARCHIVED
+13204,~BRO868,metascan-queue,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13204.info.txt>13204</a>,ARCHIVED
+13247,~BRO868,seq-fabric,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13247.info.txt>13247</a>,ARCHIVED
+13268,~BRO868,seq-gateway,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13268.info.txt>13268</a>,ARCHIVED
+13496,~BRO868,irma-queue,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13496.info.txt>13496</a>,ARCHIVED
+13239,BSP,atmospheric-compensation,CSIRO IM&T,    Author: 541 David Benn <David.Benn@csiro.au>,,,,
+13644,BSP,zynq,CSIRO IM&T,"    Author: 3 Benn, David (IM&T, Waite Campus) <David.Benn@csiro.au>",,,,
+13278,~BUG019,milx-informatics,CSIRO H&B,"    Author: 298 Raniga, Parnesh (H&B, Herston - RBWH) <Parnesh.Raniga@csiro.au>",,,,
+13201,~BUL081,phenomobile-julia,CSIRO Agriculture,"    Author: 1 Bull, Geoff (Agriculture, Black Mountain) <Geoff.Bull@csiro.au>",,,,
+13302,BVA,segnet-pytorch,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13302.info.txt>13302</a>,ARCHIVED
+13313,~CAC009,cropid_cube,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13313.info.txt>13313</a>,ARCHIVED
+13862,~CAC009,cropid,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13862.info.txt>13862</a>,ARCHIVED
+13053,~CAC017,deepmri_pelvis_segment,CSIRO H&B,"    Author: 3 Cackowski, Stenzel (H&B, Herston - RBWH) <Stenzel.Cackowski@csiro.au>",,,,
+13224,~CAC017,pix2pix,CSIRO H&B,"    Author: 6 Cackowski, Stenzel (H&B, Herston - RBWH) <Stenzel.Cackowski@csiro.au>",,,,
+13122,~CAS204,csiro-web-ui__bootstrap3--sass,CSIRO generic,    Author: 7 cas204 <Spero.Cassidy@csiro.au>,,,,
+1348,CASDA,style-and-formatting,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1348.info.txt>1348</a>,ARCHIVED
+1350,CASDA,casda_data_access,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1350.info.txt>1350</a>,ARCHIVED
+13660,CASSCI,ordered-set,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13660.info.txt>13660</a>,ARCHIVED
+13675,CASSCI,xv,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13675.info.txt>13675</a>,ARCHIVED
+13966,CASSCI,denyhosts,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13966.info.txt>13966</a>,ARCHIVED
+13687,CASSSOFT,salamander,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13687.info.txt>13687</a>,ARCHIVED
+13852,CASSSOFT,oauth,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13852.info.txt>13852</a>,ARCHIVED
+13154,~CASTILLA.930,simcopiapo,CSIRO Environment,    Author: 42 Robert Bridgart <robert.bridgart@csiro.au>,,,,
+13286,CAT,pack-manager,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13286.info.txt>13286</a>,ARCHIVED
+13462,CAT,pack-slam,DATA61<,    Author: 97 Dennis Frousheger <dennis.frousheger@csiro.au>,,,,
+13707,CCCF,ccf-data-compiler,CSIRO IM&T,"    Author: 20 D'Alessandro, Adrian (IM&T, Clayton) <Adrian.D'Alessandro@csiro.au>",,,,
+13820,CCCF,ccf-data-analysis,CSIRO IM&T,"    Author: 13 D'Alessandro, Adrian (IM&T, Clayton) <Adrian.D'Alessandro@csiro.au>",,,,
+13101,CCNCF,dcos-poc,UNKNOWN - possible mirror,    Author: 17 Boesman <boesman@example.com>,,,,
+13444,CFDSTAT,literature,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13658,~CHA748,nix-haskell,DATA61,    Author: 11 Alex Chapman <a.chapman@data61.csiro.au>,,,,
+13659,~CHA748,standardata-odl,DATA61,    Author: 11 Alex Chapman <a.chapman@data61.csiro.au>,,,,
+13028,~CHI139,rfiprop,CSIRO CASS,"    Author: 3 Chippendale, Aaron (CASS, Marsfield) <Aaron.Chippendale@csiro.au>",,,,
+13050,~CHI139,diffprop-p526,CSIRO CASS,"    Author: 8 Chippendale, Aaron (CASS, Marsfield) <Aaron.Chippendale@csiro.au>",,,,
+13230,~CHI139,pyspec,CSIRO CASS,"    Author: 10 Chippendale, Aaron (CASS, Marsfield) <Aaron.Chippendale@csiro.au>",,,,
+1374,CHS,lcapps,CSIRO User Left,    Author: 17 Pavan Sikka <pavan.sikka@csiro.au>,,,,
+13222,~CHU090,beamerthemedata61,DATA61,    Author: 4 Peter Chubb <Peter.Chubb@data61.csiro.au>,,,,
+13223,~CHU090,data61sem,DATA61 NICTA,    Author: 5 Peter Chubb <peter.chubb@nicta.com.au>,,,,
+13261,~CHU102,stat2018_eda,DATA61,    Author: 32 Xin-Yi Chua <xin-yi.chua@data61.csiro.au>,,,,
+13360,~CHU102,berry2019_eda,DATA61,    Author: 4 Xin-Yi Chua <xin-yi.chua@data61.csiro.au>,,,,
+13365,~CHU102,leray2015_eda,DATA61,    Author: 13 Xin-Yi Chua <xin-yi.chua@data61.csiro.au>,,,,
+13075,CIDC,gaslab_legacy,DATA61<,    Author: 3 Ben Clews <ben.clews@csiro.au>,,,,
+1342,CIDC,hydrolab,CSIRO O&A,"    Author: 72 Chui, Francis (O&A, Hobart) <Francis.Chui@csiro.au>",,,,
+13702,CIDC,m3py,UNKNOWN - possible mirror,    Author: 25 Brian Schlining <bschlining@gmail.com>,,,,
+13817,CIDC,marlin3-docker,CSIRO O&A,"    Author: 195 Jackett, Chris (O&A, Hobart) <chris.jackett@csiro.au>",,,,
+13883,CIDC,reporting,CSIRO NCMI,"    Author: 206 Watts, Dave (NCMI, Hobart) <Dave.Watts@csiro.au>",,,,
+13955,CIDC,swarm-infra,DATA61<,    Author: 121 Ben Clews <ben.clews@csiro.au>,,,,
+13968,CIDC,dont-panic,UNKNOWN - possible mirror,    Author: 646 Sercan Yemen <sercanyemen@gmail.com>,,,,
+1308,CI,cloudimaging,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1308.info.txt>1308</a>,ARCHIVED
+1305,CKP,culturalkeyphrases,CSIRO DP&S,"    Author: 94 Harrap, Karen (DP&S, Herston - RBWH) <Karen.Harrap@csiro.au>",,,,
+13818,~CLAIREHARDGROVE.924,ratboost-p4,UNKNOWN - possible mirror,    Author: 138 Claire Hardgrove <clairehardgrove@gmail.com>,,,,
+13829,~CLAIREHARDGROVE.924,dratboost-paper,UNKNOWN - possible mirror,    Author: 10 Claire Hardgrove <clairehardgrove@gmail.com>,,,,
+1306,CMAR_RS,datacube-prep-mod09,CSIRO CMAR,"    Author: 13 Paget, Matt (CMAR, Black Mountain) <matt.paget@csiro.au>",,,,
+1316,CMAR_RS,modis-rgb,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1316.info.txt>1316</a>,ARCHIVED
+1372,CMAR_RS,modis-fractcover,CSIRO CMAR,"    Author: 11 Paget, Matt (CMAR, Black Mountain) <matt.paget@csiro.au>",,,,
+13361,CMEXTREMES,bathymetry_analysis,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13361.info.txt>13361</a>,ARCHIVED
+13491,CMEXTREMES,ppbcha,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13491.info.txt>13491</a>,ARCHIVED
+13587,CMEXTREMES,slwce_website,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13587.info.txt>13587</a>,ARCHIVED
+13943,CMEXTREMES,cmextremes_notebooks,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13943.info.txt>13943</a>,ARCHIVED
+13413,~COL540,geoenc,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13413.info.txt>13413</a>,ARCHIVED
+13959,~COL549,benchmarking-robotic-manipulation,DATA61,    Author: 4 Jack Collins <jack.collins@data61.csiro.au>,,,,
+13996,~COL553,test01,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13095,CONNIE,particle_tracking,CSIRO HPC,    Author: 31 Bec Gorton <gor171@pearcey-i1.cm.hpc>,,,,
+13109,CONNIE,connie_land_mask,CSIRO O&A,"    Author: 1 Gorton, Bec (O&A, Hobart) <Bec.Gorton@csiro.au>",,,,
+13553,CONNIE,connie_atlantis,CSIRO O&A,"    Author: 9 Gorton, Bec (O&A, Hobart) <Bec.Gorton@csiro.au>",,,,
+13888,CONNIE,connie_django_rest,CSIRO Environment,    Author: 131 Bec Gorton <gor171@spot-hf.nexus.csiro.au>,,,,
+13931,CONSULT,tractography-reliability,CSIRO generic,    Author: 13 Lee Reid <lee.reid@csiro.au>,,,,
+13035,~COO389,lesion_heal,CSIRO generic,    Author: 9 Lee Reid <lee.reid@csiro.au>,,,,
+13265,~COO402,comms_reporter,DATA61,"    Author: 1 Cooper-Jackson, Reilly (Data61, Pullenvale) <Reilly.Cooper-Jackson@data61.csiro.au>",,,,
+1330,~COW082,bat_transcriptome,CSIRO Biosecurity,"    Author: 1 Cowled, Chris (Biosecurity, Geelong AAHL) <Chris.Cowled@csiro.au>",,,,
+1331,~COW082,bat_manager,CSIRO Biosecurity,"    Author: 1 Cowled, Chris (Biosecurity, Geelong AAHL) <Chris.Cowled@csiro.au>",,,,
+1332,~COW082,bat_mirna,CSIRO Biosecurity,"    Author: 1 Cowled, Chris (Biosecurity, Geelong AAHL) <Chris.Cowled@csiro.au>",,,,
+13440,CPDA,proc_master,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13440.info.txt>13440</a>,ARCHIVED
+13836,CPDA,dap_upload_tools,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13836.info.txt>13836</a>,ARCHIVED
+13975,CPDA,pks_data_access_tools,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13975.info.txt>13975</a>,ARCHIVED
+13976,CPDA,pks_data_access_docs,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13976.info.txt>13976</a>,ARCHIVED
+13578,CRBNVW,carbonview,CSIRO O&A,"    Author: 3 Slawinski, Dirk (O&A, IOMRC Crawley) <Dirk.Slawinski@csiro.au>",,,,
+13123,CRCPMAX,crcp-maxwell,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13310,CRCPMAX,mri-brain-seg-baselines,CSIRO User Left,    Author: 3 fon022 <fon022@csiro.au>,,,,
+13395,CRCPMAX,occupancy_networks,CSIRO User Left,    Author: 20 fon022 <fon022@csiro.au>,,,,
+13465,CRCPMAX,docs,CSIRO User Left,    Author: 8 fon022 <fon022@csiro.au>,,,,
+13102,CROPTRON,cropatron_controllers,CSIRO generic,    Author: 11 Brett Downing <brett.downing@csiro.au>,,,,
+13103,CROPTRON,cropatron_description,CSIRO generic,    Author: 14 Brett Downing <brett.downing@csiro.au>,,,,
+13104,CROPTRON,cropatron_hardware,CSIRO generic,    Author: 122 Brett Downing <brett.downing@csiro.au>,,,,
+13105,CROPTRON,cropatron_limit_mounts,CSIRO generic,    Author: 6 Brett Downing <brett.downing@csiro.au>,,,,
+13106,CROPTRON,cropatron_meta_ros,CSIRO generic,    Author: 11 cropatron01 <pri235@csiro.au>,,,,
+13107,CROPTRON,cropatron_sequencer,CSIRO generic,    Author: 3 pri235 <pri235@csiro.au>,,,,
+13111,CROPTRON,ethernetip_tools,CSIRO generic,    Author: 8 Brett Downing <brett.downing@csiro.au>,,,,
+13112,CROPTRON,ethernetip_msgs,CSIRO generic,    Author: 2 Brett Downing <brett.downing@csiro.au>,,,,
+13113,CROPTRON,odva_ethernetip,UNKNOWN - possible mirror,    Author: 115 Kareem Shehata <kshehata@clearpathrobotics.com>,,,,
+13114,CROPTRON,ethernetip_ros,CSIRO A&F,"    Author: 1 Pritchard, Michael (A&F, Black Mountain) <pri235@csiro.au>",,,,
+13115,CROPTRON,camera_aravis,UNKNOWN - possible mirror,    Author: 53 Steve Safarik <ssafarik@uw.edu>,,,,
+1312,CROPTRON,hyperspectral,CSIRO User Left,    Author: 1 Xavier Sirault <xavier.sirault@csiro.au>,,,,
+13275,CROPTRON,cropatron_containers,CSIRO A&F,    Author: 4 cropatron <pri235@csiro.au>,,,,
+13279,CROPTRON,cropatron_web,CSIRO generic,    Author: 65 pri235 <pri235@csiro.au>,,,,
+13366,CROPTRON,cropatron_acquisition,CSIRO generic,    Author: 6 cropatron <pri235@csiro.au>,,,,
+1346,CROPTRON,thermocouple-calibration,UNKNOWN - possible mirror,    Author: 17 Peter Ansell <p_ansell@yahoo.com>,,,,
+13241,CSCF,cscf-r,CSIRO A&F,"    Author: 41 Mitchell, Patrick (A&F, Sandy Bay) <Patrick.Mitchell@csiro.au>",,,,
+13797,CSIG,bluering,CSIRO S&A,    Author: 13 David Humphrey <dave.humphrey@csiro.au>,,,,
+13149,CSIROAU,refresh-2019,UNKNOWN - possible mirror,    Author: 90 Shiva <shiva@presentcompany.co>,,,,
+13306,CSIRO_SSH,gccserver,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13306.info.txt>13306</a>,ARCHIVED
+13693,CSP00148,paper_pml_cover,CSIRO A&F,    Author: 50 David Deery <dee026@dion-bm.nexus.csiro.au>,,,,
+13317,CSR,myahrs_driver,UNKNOWN - possible mirror,    Author: 20 robotpilot <passionvirus@gmail.com>,,,,
+13796,CSR,magneto_foothold_selection,DATA61,"    Author: 50 Blanch, Kris (Data61, Pullenvale) <Kris.Blanch@data61.csiro.au>",,,,
+13983,CSR,magneto_autonomy_controller,DATA61,"    Author: 156 Thouard, Noa (Data61, Pullenvale) <Noa.Thouard@data61.csiro.au>",,,,
+13039,CST,object_report_panel,DATA61,"    Author: 57 Tam, Benjamin (Data61, Pullenvale) <Benjamin.Tam@data61.csiro.au>",,,,
+13205,CST,autonomy,UNKNOWN - possible mirror,"    Author: 114 O'Brien, Matthew (Georgia Tech) <mjobrien@gatech.edu>",,,,
+13272,CST,comms_reporter,DATA61,"    Author: 89 Cooper-Jackson, Reilly (Data61, Pullenvale) <Reilly.Cooper-Jackson@data61.csiro.au>",,,,
+13308,CST,titan_core,CSIRO generic,    Author: 9 Tom Molnar <tom.molnar@csiro.au>,,,,
+13426,CST,comms_hardware_interface,DATA61,    Author: 23 Tom Molnar <tom.molnar@data61.csiro.au>,,,,
+13480,CST,atlas_core,DATA61,    Author: 15 Tom Molnar <tom.molnar@data61.csiro.au>,,,,
+13555,CST,test_mapping_server,UNKNOWN - possible mirror,    Author: 11 Angela Maio <angela.c.maio.civ@mail.mil>,,,,
+13581,CST,ghost_core,DATA61,    Author: 2 Tom Molnar <tom.molnar@data61.csiro.au>,,,,
+13373,CTA,join_data_design,CSIRO A&F,    Author: 22 David Deery <david.deery@csiro.au>,,,,
+13565,CTA,yield_analysis,CSIRO A&F,    Author: 6 David Deery <david.deery@csiro.au>,,,,
+13442,CT,csiroct-containers,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13442.info.txt>13442</a>,ARCHIVED
+13457,CT,server-test,CSIRO User Left,    Author: 5 Darren Thompson <darren.thompson@csiro.au>,,,,
+13229,CV,seminar,DATA61,    Author: 5 Brendon Yenson <brendon.yenson@data61.csiro.au>,,,,
+13982,~DAI035,first_repository,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13573,~DAL189,test-project,CSIRO IM&T,"    Author: 1 D'Alessandro, Adrian (IM&T, Clayton) <Adrian.D'Alessandro@csiro.au>",,,,
+13823,DAP,delta,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13823.info.txt>13823</a>,ARCHIVED
+13906,DAT,programmatic-data-example,UNKNOWN - possible mirror,    Author: 10 Alex Whan <alexwhan@gmail.com>,,,,
+13232,DCDP,deploy,DATA61,"    Author: 16 Squire, Geoffrey (Data61, Black Mountain) <geoffrey.squire@data61.csiro.au>",,,,
+13325,DCH,graph-benchmark,DATA61,    Author: 4 Daniel Hugo <daniel.hugo@data61.csiro.au>,,,,
+13057,DEVOPS,k8s-deployinator,DATA61,    Author: 2 Peter Hassall <peter.hassall@data61.csiro.au>,,,,
+13058,DEVOPS,old_build_remover,CSIRO IM&T,    Author: 4 Shane Nayler <nay019@labyrinth-cc.nexus.csiro.au>,,,,
+13059,DEVOPS,sa-gitlab,CSIRO IM&T,    Author: 11 Shane Nayler <nay019@labyrinth-cc.nexus.csiro.au>,,,,
+13391,DEVOPS,tf-aws-management,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13434,DEVOPS,tf-fta,DATA61,    Author: 39 Peter Hassall <Peter.Hassall@data61.csiro.au>,,,,
+13110,DF,f4_reshuffle_scripts,CSIRO HPC,    Author: 34 Dougie Squire <squ027@pearcey-i1.cm.hpc>,,,,
+13835,DF,collier_scratch,CSIRO generic,    Author: 3 Collier <col414@oa-35-cdc.nexus.csiro.au>,,,,
+13242,~DIA021,wa_l8sar_2018,CSIRO HPC,    Author: 3 Foivos Diakogiannis <dia021@bracewell-i1.cm.hpc>,,,,
+13985,~DIA021,citieschallenge,CSIRO HPC,    Author: 6 Foivos Diakogiannis <dia021@bracewell-i1.cm.hpc>,,,,
+13276,DIGV,bom_data_collector,CSIRO IM&T,"    Author: 3 D'Alessandro, Adrian (IM&T, Clayton) <Adrian.D'Alessandro@csiro.au>",,,,
+13085,~DO013,mask_rcnn,UNKNOWN - possible mirror,    Author: 123 Asher Yartsev <>,,,,
+13297,~DO013,ftp2rcnn_pipeline,DATA61,"    Author: 18 Do, Brendan (Data61, Pullenvale) <Brendan.Do@data61.csiro.au>",,,,
+13299,~DO013,keras-yolo3,UNKNOWN - possible mirror,    Author: 14 kcw <kcw@cht.com.tw>,,,,
+13376,~DO013,ftp2senaps,DATA61,"    Author: 3 Do, Brendan (Data61, Pullenvale) <Brendan.Do@data61.csiro.au>",,,,
+13212,~DOW170,ninja_trial,CSIRO H&B,"    Author: 25 Dowling, Jason (H&B, Herston - RBWH) <Jason.Dowling@csiro.au>",,,,
+13213,~DOW170,commonscriptscluster,CSIRO H&B,"    Author: 10 Dowling, Jason (H&B, Herston - RBWH) <Jason.Dowling@csiro.au>",,,,
+13770,~DOW184,user_specific_scripts,UNKNOWN - possible mirror,    Author: 3 Sven Dowideit <SvenDowideit@home.org.au>,,,,
+13886,~DOW184,coastal-vis-dashboard,UNKNOWN - possible mirror,    Author: 767 Dan Wild <danwild@y7mail.com>,,,,
+13295,DSSJS,nodejs-typescript-module-template,CSIRO User Left,    Author: 5 Jace <jace.galvin@csiro.au>,,,,
+13296,DSSJS,loraserver-mqtt-wrapper,CSIRO User Left,    Author: 31 Jace <jace.galvin@csiro.au>,,,,
+13346,DSSJS,azure-iot-hub-mqtt,CSIRO User Left,    Author: 5 Jace <jace.galvin@csiro.au>,,,,
+13370,DSSJS,bleat-mongodb-interface,CSIRO generic,    Author: 68 Jace <jace.galvin@csiro.au>,,,,
+13387,DSSJS,pacp-packet-parser,CSIRO Environment,    Author: 7 Jace <jace.galvin@csiro.au>,,,,
+13392,DSSJS,xti-parser,DATA61,    Author: 40 Rohan Malik <Rohan.Malik@data61.csiro.au>,,,,
+13424,DSSJS,bleat-amqp-wrapper,DATA61<,    Author: 15 Jace <jace.galvin@csiro.au>,,,,
+13475,DSSJS,ble-device-interface,DATA61,    Author: 110 Rohan Malik <Rohan.Malik@data61.csiro.au>,,,,
+13525,DSSJS,pacp-packet,CSIRO Environment,    Author: 84 Jace <jace.galvin@csiro.au>,,,,
+13584,DSSJS,bleat-azure-service-bus-wrapper,CSIRO A&F,    Author: 52 Jace <jace.galvin@csiro.au>,,,,
+13735,DSSJS,rpc-parser,DATA61,    Author: 62 Rohan Malik <Rohan.Malik@data61.csiro.au>,,,,
+13827,DSSJS,tdf-parser,DATA61,    Author: 54 Rohan Malik <Rohan.Malik@data61.csiro.au>,,,,
+13947,DSSJS,loraserver-lorawan-data-parser,CSIRO IM&T,    Author: 32 Jace <jace.galvin@csiro.au>,,,,
+13206,~DUC02B,labcontrol,CSIRO IM&T,    Author: 172 Duck <duc02b@csiro.au>,,,,
+13381,~DUC02B,bsrndata,CSIRO Environment,    Author: 5 Duck <duc02b@csiro.au>,,,,
+13673,~DUC02B,pvpltools,CSIRO User Left,    Author: 1 Duck <duc02b@csiro.au>,,,,
+13168,~DUN227,livoxlidarros,UNKNOWN - possible mirror,    Author: 17 Livox-SDK <dev@livoxtech.com>,,,,
+13908,~DUN227,jupyter,DATA61,"    Author: 6 Dungavell, Ross (Data61, Pullenvale) <Ross.Dungavell@data61.csiro.au>",,,,
+13605,EIF,weak_soup,DATA61,"    Author: 6 Thoreau, Michael (Data61, Pullenvale) <Michael.Thoreau@data61.csiro.au>",,,,
+13771,EIF,temporal-cycle-consistency-learning,CSIRO HPC,    Author: 1 Anthony Vanderkop <van468@bracewell-login.cm.hpc>,,,,
+13772,EIF,correspondences-from-cycle-consistency-of-time,CSIRO HPC,    Author: 11 Josh Knights <kni101@bracewell-login.cm.hpc>,,,,
+13067,EIS,water_data_processing,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+1309,EIS,docker-tutorial,CSIRO Environment,    Author: 4 Ben Leighton <ben.leighton@csiro.au>,,,,
+1315,EIS,ba-rules,CSIRO CLW,"    Author: 3 Car, Nick (CLW, Dutton Park) <Nicholas.Car@csiro.au>",,,,
+13349,EIS,loci-scripts,CSIRO Environment,    Author: 49 Jonathan Yu <yu021@csiro.au>,,,,
+1337,EIS,rules_templates,UNKNOWN - possible mirror,    Author: 4 Nicholas Car <nicholas.car@ga.gov.au>,,,,
+13380,EIS,open-data-cube-jupyter-notebooks,CSIRO Environment,    Author: 2 fre171 <andrew.freebairn@csiro.au>,,,,
+13393,EIS,mb16cc-linkset,CSIRO User Left,    Author: 18 Ashley Sommer <Ashley.Sommer@csiro.au>,,,,
+13399,EIS,loci-testdata,CSIRO Environment,    Author: 23 Jonathan Yu <yu021@csiro.au>,,,,
+13403,EIS,silverpieces,CSIRO generic,    Author: 36 J-M <jean-michel.perraud@csiro.au>,,,,
+13691,EIS,suitable-sensors,CSIRO Environment,    Author: 7 Ben Leighton <Ben.Leighton@csiro.au>,,,,
+13712,EIS,suitable-sensors-ui,CSIRO Environment,    Author: 6 Ben Leighton <Ben.Leighton@csiro.au>,,,,
+13756,EIS,loci-terra-rds,CSIRO Environment,    Author: 4 Ben Leighton <Ben.Leighton@csiro.au>,,,,
+1375,EIS,ba-jenkins,CSIRO Environment,    Author: 23 Ben Leighton <Ben.Leighton@csiro.au>,,,,
+13778,EIS,csiro-ldap-to-oauth,UNKNOWN - possible mirror,    Author: 19 Ashley Sommer <ashleysommer@gmail.com>,,,,
+1391,EIS,summervocabs-1415,CSIRO generic,    Author: 90 Megan Williams <Megan.Williams@csiro.au>,,,,
+13348,~EKA001,visualize3d,DATA61,"    Author: 16 Ekanayake, Pulasthi (Data61, Pullenvale) <Pulasthi.Ekanayake@data61.csiro.au>",,,,
+13505,~EKA001,angular3dviewer,DATA61,"    Author: 14 Ekanayake, Pulasthi (Data61, Pullenvale) <Pulasthi.Ekanayake@data61.csiro.au>",,,,
+13498,EMDEV,drill-tool-2019,CSIRO Manufacturing,"    Author: 7 Tulloh, Andrew (Manufacturing, Clayton) <Andrew.Tulloh@csiro.au>",,,,
+13661,EMDEV,rotatinggradiometer,DATA61,"    Author: 66 Bailey, Tim (Manufacturing, Lindfield) <Tim.Bailey@data61.csiro.au>",,,,
+13417,ENERGY,pvwatts,CSIRO Energy,    Author: 1 Sam West <sam.west@csiro.au>,,,,
+13612,ENERGY,satellite-forecasting-collab,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13825,ENERGY,satellite-utils,CSIRO Energy,    Author: 1 Sam West <sam.west@csiro.au>,,,,
+13917,ENTREP,lumira-sdk,CSIRO IM&T,"    Author: 16 Camac, Ivan (IM&T, Hobart) <Ivan.Camac@csiro.au>",,,,
+13840,EPSS,wirelessnicmanager,CSIRO User Left,    Author: 9 Milton Yates <milton.yates@csiro.au>,,,,
+13193,EPUB,publish-theme,CSIRO Services,"    Author: 5 Lau, Simon (Services, Clayton Wgtn Rd) <Simon.Lau@csiro.au>",,,,
+13697,ERA,reportarchive_pre2012,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13700,ERA,scripts_ecobase,CSIRO Environment,    Author: 12 ful072 <michael.fuller@csiro.au>,,,,
+13727,ERA,reportautomation,CSIRO O&A,"    Author: 6 Hartog, Jason (O&A, Hobart) <Jason.Hartog@csiro.au>",,,,
+13899,ERIS,sensit-firmware,DATA61,"    Author: 1 Peters, Chris (Data61, Hobart) <Chris.Peters@data61.csiro.au>",,,,
+13901,ERIS,middleware-api,DATA61,"    Author: 2901 Peters, Chris (Data61, Hobart) <Chris.Peters@data61.csiro.au>",,,,
+13902,ERIS,hyperledger-iot-perishable-network,DATA61,"    Author: 1 Peters, Chris (Data61, Hobart) <Chris.Peters@data61.csiro.au>",,,,
+1338,ER,ereefs-science,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1338.info.txt>1338</a>,ARCHIVED
+1359,ER,dbl-admin,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1359.info.txt>1359</a>,ARCHIVED
+1383,ER,docker-fuseki-er,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1383.info.txt>1383</a>,ARCHIVED
+13865,ER,ereefs-thredds,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13865.info.txt>13865</a>,ARCHIVED
+13911,ER,er-s1-sar-gbr,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13911.info.txt>13911</a>,ARCHIVED
+13208,ESCR,ansible,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13208.info.txt>13208</a>,ARCHIVED
+13284,ESCR,server-configurations,CSIRO User Left,    Author: 4 gre497 <Bradford.Greer@csiro.au>,,,,
+13362,ESCR,aspire-exported,CSIRO IM&T,"    Author: 3 Lightfoot, Michael (IM&T, Yarralumla) <Michael.Lightfoot@csiro.au>",,,,
+13649,ESCR,docker-configuration,CSIRO User Left,    Author: 80 gre497 <gre497@csiro.au>,,,,
+13421,ETAS,macq-harbour-deploy-scripts,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13421.info.txt>13421</a>,ARCHIVED
+1358,ET,jobprogress,UNKNOWN - possible mirror,    Author: 32 Ramneek Singh <ramneek.singh@csiro.cu>,,,,
+13245,EUDM,near-elasticsearch,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13397,EUDM,near-aemo-database-work,UNKNOWN - possible mirror,    Author: 2 Andrew Spiers <andrew@andrewspiers.net>,,,,
+13564,EUDM,near_psa_visualisation_prototype,CSIRO Energy,"    Author: 31 Goldthorpe, Peter (Energy, Newcastle) <Peter.Goldthorpe@csiro.au>",,,,
+13043,EUD,infra,UNKNOWN - possible mirror,    Author: 21 Andrew Spiers <andrew@andrewspiers.net>,,,,
+13038,~FAR237,test,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13422,FAS,mlhdriskstratification,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13422.info.txt>13422</a>,ARCHIVED
+13788,FAS,mlhd-cds,CSIRO H&B,    Author: 30 Derek Ireland <derek.ireland@csiro.au>,,,,
+13826,FAS,mlhd-sql,CSIRO H&B,    Author: 5 Derek Ireland <derek.ireland@csiro.au>,,,,
+13806,~FER201,findher,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13333,~FIS144,gr-pores-features_ml,DATA61,"    Author: 1 Fischer, Meli (Data61, Docklands GS) <Meli.Fischer@data61.csiro.au>",,,,
+13237,FLDPHENO,hydraspec_app,CSIRO IM&T,    Author: 6 Pritchard <pri235@csiro.au>,,,,
+13334,FLDPHENO,wheatscan_annotations,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13755,~FLI034,first-arrival-picker,CSIRO IM&T,"    Author: 25 D'Alessandro, Adrian (IM&T, Clayton) <Adrian.D'Alessandro@csiro.au>",,,,
+13174,~FOR321,ppbcha-pywps,UNKNOWN - possible mirror,    Author: 58 Jachym Cepicky <jachym.cepicky@gmail.com>,,,,
+13183,~FOR321,terriajs,UNKNOWN - possible mirror,    Author: 5268 Kevin Ring <kevin@kotachrome.com>,,,,
+13184,~FOR321,ppbcha-terriamap,UNKNOWN - possible mirror,    Author: 2118 Kevin Ring <kevin@kotachrome.com>,,,,
+13653,~FOW040,active_learning,CSIRO User Left,    Author: 37 Fowler <fow040@csiro.au>,,,,
+13738,~FU012,r5-otp1,DATA61,"    Author: 4 Fu, Yushuai (Data61, Eveleigh) <Yushuai.Fu@data61.csiro.au>",,,,
+13401,~GAI00B,dataairlock-v2,DATA61,"    Author: 561 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13907,GAP,auscopenvclsvnarchive,CSIRO Mineral Resources,    Author: 671 subgit <support@subgit.com>,,,,
+13752,~GAR305,senapstest,DATA61,"    Author: 21 Garg, Nikhil <Nikhil.Garg@data61.csiro.au>",,,,
+13789,~GAR305,biascorrection,DATA61,"    Author: 4 Garg, Nikhil <Nikhil.Garg@data61.csiro.au>",,,,
+13487,GATOR,g2_controller,DATA61,"    Author: 62 Bonchis, Adrian (Data61, Pullenvale) <Adrian.Bonchis@data61.csiro.au>",,,,
+13556,GATOR,pilz,CSIRO IM&T,    Author: 7 aslab <aslab@gator2-ph.nexus.csiro.au>,,,,
+13585,GATOR,gator2hal,CSIRO A&F,    Author: 68 aslab <aslab@gator2-ph.nexus.csiro.au>,,,,
+13804,GATOR,gator_core,DATA61<,    Author: 16 had067 <dave.haddon@csiro.au>,,,,
+13971,~GIB392,ipam-web,CSIRO IM&T,    Author: 465 John Gibbins <John.Gibbins@csiro.au>,,,,
+13233,~GIL2A4,papers_data-driven_head,UNKNOWN - possible mirror,    Author: 11 Ashley Gillman <gillmanash@gmail.com>,,,,
+13969,GLOBUS,globus-mgt,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13969.info.txt>13969</a>,ARCHIVED
+13080,~GRE48I,ppbcha_focus,CSIRO Environment,    Author: 24 Rebecca Gregory <rebecca.gregory@csiro.au>,,,,
+13216,~GUA016,survey,DATA61,    Author: 7 gua016 <xinlong.guan@data61.csiro.au>,,,,
+13579,~GUA016,smart-city-mission,DATA61,    Author: 6 gua016 <xinlong.guan@data61.csiro.au>,,,,
+13711,H4CYBER,crs-onboarding,CSIRO generic,    Author: 24 Jacob Anders <jacob.anders@csiro.au>,,,,
+13864,H4CYBER,crs-projects,CSIRO generic,    Author: 38 Jacob Anders <jacob.anders@csiro.au>,,,,
+13839,~HAN329,test,CSIRO generic,    Author: 0 NEXUS\han329 <ross.hansen@csiro.au>,,,,
+13034,~HAR1A1,climate-indices,CSIRO generic,    Author: 45 Dylan Harries <Dylan.Harries@csiro.au>,,,,
+13368,~HAS100,ckan-bash,DATA61 NICTA,    Author: 2 Peter Hassall <peter.hassall@nicta.com.au>,,,,
+13135,HELIO,cal_capture_analysis,CSIRO User Left,    Author: 5 col506 <Mike.Collins@csiro.au>,,,,
+13197,HELIO,gsv8_reader,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13262,HELIO,imageprocessing,CSIRO generic,    Author: 1 mike collins <mike.collins@csiro.au>,,,,
+13782,HELIO,adam-module,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13439,HFRAC,pba-riskanalysis,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13446,HFRAC,coffeehouse,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13446.info.txt>13446</a>,ARCHIVED
+13652,HFRAC,csmp_hf,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13652.info.txt>13652</a>,ARCHIVED
+13577,~HIL32C,raster_process,CSIRO IM&T,    Author: 29 David Benn <David.Benn@csiro.au>,,,,
+1385,~HOE01D,lkab-matlab,CSIRO Mineral Resources,"    Author: 11 Hoehn, Karsten (Mineral Resources, Pullenvale) <Karsten.Hoehn@csiro.au>",,,,
+13894,~HOS076,variantspark-aws,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13894.info.txt>13894</a>,ARCHIVED
+13175,~HOW22K,evo_snakebot_andrew_raz,CSIRO H&B,    Author: 7 Howard <how22k@csiro.au>,,,,
+13176,~HOW22K,projects,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13178,~HOW22K,doc,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13179,~HOW22K,lectures,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13186,~HOW22K,staticmixer,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13187,~HOW22K,wp5_arduino_smadriver,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13188,~HOW22K,wp32_cppn,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13189,~HOW22K,wp20,DATA61,"    Author: 4 Howard, David (Data61, Pullenvale) <david.howard@data61.csiro.au>",,,,
+13900,~HOW22K,jamgripper,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13999,~HOW22K,cppn_parallel,DATA61,"    Author: 1 Howard, David (Data61, Pullenvale) <David.Howard@data61.csiro.au>",,,,
+13813,HS,explainabledeeppatient,CSIRO H&B,"    Author: 7 Vu, Thanh (H&B, Herston - RBWH) <Thanh.Vu@csiro.au>",,,,
+1373,HTA,edradiology,CSIRO Digital,"    Author: 6 Koopman, Bevan (Digital, Herston - RBWH) <Bevan.Koopman@csiro.au>",,,,
+13913,HTA,negexcontext,UNKNOWN - possible mirror,    Author: 3 Bevan Koopman <bevan@koopman.id.au>,,,,
+13136,~HUG159,hoddb-v0.6.0,DATA61,    Author: 6 Daniel Hugo <daniel.hugo@data61.csiro.au>,,,,
+13142,~HUG159,hod,UNKNOWN - possible mirror,    Author: 769 Gabe Fierro <gtfierro225@gmail.com>,,,,
+13614,~HUG159,smg2-experimental-metrics,DATA61,"    Author: 516 Biggins, David (Data61, Sandy Bay) <David.Biggins@data61.csiro.au>",,,,
+13765,~HUG159,aot-upload-tools,DATA61,    Author: 1 Daniel Hugo <daniel.hugo@data61.csiro.au>,,,,
+13676,HUS,nato_iufcv_nano_ems,UNKNOWN - possible mirror,    Author: 2 Emili Hernandez <emilihb@gmail.com>,,,,
+13949,ICDM,icdmapping,CSIRO H&B,    Author: 8 zha12j <zha12j@JESTER-EP.nexus.csiro.au>,,,,
+13066,ICG,jenkins,CSIRO HR,"    Author: 1 Boddington, Adam (HR, Black Mountain) <Adam.Boddington@csiro.au>",,,,
+13173,ICG,ic-global-portal,CSIRO HR,"    Author: 124 Phillips, Alistair (HR, Black Mountain) <Alistair.Phillips@csiro.au>",,,,
+13438,ICG,findher-portal,CSIRO HR,"    Author: 64 Phillips, Alistair (HR, Black Mountain) <Alistair.Phillips@csiro.au>",,,,
+13910,ICG,publisher-api,CSIRO HR,"    Author: 6 Phillips, Alistair (HR, Black Mountain) <Alistair.Phillips@csiro.au>",,,,
+13998,ICG,publisher-tests,CSIRO HR,"    Author: 4 Phillips, Alistair (HR, Black Mountain) <Alistair.Phillips@csiro.au>",,,,
+13548,IDP,iscience_experiments,CSIRO IM&T,"    Author: 75 Liz Cooper-Williams (IMT, St. Lucia) <Liz.Cooper-Williams@csiro.au>",,,,
+13500,IEA,imaxes2019,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13500.info.txt>13500</a>,ARCHIVED
+13672,IEA,collaborativescatterplotrendering,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13672.info.txt>13672</a>,ARCHIVED
+13255,ILS,template-springboot-swagger,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13255.info.txt>13255</a>,ARCHIVED
+13747,ILS,alma-resource-partner-sync,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13747.info.txt>13747</a>,ARCHIVED
+13750,ILS,alma-resource-partner-sync-updatefromalma,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13750.info.txt>13750</a>,ARCHIVED
+13964,ILS,alma-docdel-forms,CSIRO IM&T,"    Author: 2 Tomasovic, Antony (IM&T, Clayton) <Antony.Tomasovic@csiro.au>",,,,
+13321,INST,landshark-scripts,UNKNOWN - possible mirror,    Author: 1 Dan Steinberg <dan.m.steinberg@gmail.com>,,,,
+13503,INST,gsq,DATA61,    Author: 45 Dave Cole <david.cole@data61.csiro.au>,,,,
+13504,INST,libs-ss,DATA61,    Author: 34 jen <Jennifer.Chen@data61.csiro.au>,,,,
+13520,IOT,broodminder,DATA61,"    Author: 4 Biggins, David (Data61, Sandy Bay) <David.Biggins@data61.csiro.au>",,,,
+13119,ISPGROUP,shm,DATA61,    Author: 1 Tariq Abbasi <tariq.abbasi@data61.csiro.au>,,,,
+13545,ISPGROUP,energy-desktop,DATA61,    Author: 14 gua016 <xinlong.guan@data61.csiro.au>,,,,
+13956,ISPGROUP,udm_demo,DATA61,    Author: 6 gua016 <xinlong.guan@data61.csiro.au>,,,,
+13012,ITSS,pentest-interview-simulation-compliot,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13012.info.txt>13012</a>,ARCHIVED
+13621,ITSS,helk,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13621.info.txt>13621</a>,ARCHIVED
+13656,ITSS,logstash_csiro,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13656.info.txt>13656</a>,ARCHIVED
+13941,ITSS,ims_api,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13941.info.txt>13941</a>,ARCHIVED
+13082,~JAN087,dummy_dll_for_python,DATA61,"    Author: 2 Jang, Seung (Data61, Marsfield) <Seung.Jang@data61.csiro.au>",,,,
+13083,~JAN087,python_test,DATA61,"    Author: 16 Jang, Seung (Data61, Marsfield) <seung.jang@data61.csiro.au>",,,,
+13084,~JAN087,mashup_pi,DATA61,"    Author: 3 Jang, Seung (Data61, Marsfield) <Seung.Jang@data61.csiro.au>",,,,
+13301,~JAN087,openthread_wpan,UNKNOWN - possible mirror,    Author: 221 Jonathan Hui <jonhui@nestlabs.com>,,,,
+13309,~JAN087,openssl-ibihop,UNKNOWN - possible mirror,    Author: 6424 Dr. Stephen Henson <steve@openssl.org>,,,,
+13516,~JAN087,openthread,UNKNOWN - possible mirror,    Author: 2075 Jonathan Hui <jonhui@nestlabs.com>,,,,
+13866,~JAN087,mashup_2019,DATA61,"    Author: 75 Jang, Seung (Data61, Marsfield) <Seung.Jang@data61.csiro.au>",,,,
+13736,~JAN091,fmd2019,CSIRO H&B,"    Author: 20 Jansen van Vuren, Petrus (H&B, Geelong AAHL) <Petrus.Jansenvanvuren@csiro.au>",,,,
+13243,~JOU008,ratboost-p4,DATA61,"    Author: 1 Jourjon, Guillaume (Data61, Eveleigh) <Guillaume.Jourjon@data61.csiro.au>",,,,
+13816,~KEN264,ereefs-pysamples,CSIRO Environment,    Author: 2 Erin Kenna <erin.kenna@csiro.au>,,,,
+13952,~KEN264,dataversesync,CSIRO Environment,    Author: 28 Erin Kenna <erin.kenna@csiro.au>,,,,
+13316,~KHO021,fpga-vision,DATA61,"    Author: 2 Khodaparastsichani, Arash (Data61, Pullenvale) <arash.khodaparastsichani@data61.csiro.au>",,,,
+13244,KHVRS,netwrokanalysis_moon_bbnv7,UNKNOWN - possible mirror,    Author: 1 Jess Hopf <jess.hopf@rmit.edu.au>,,,,
+13599,KHVRS,graphsjs,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13599.info.txt>13599</a>,ARCHIVED
+13730,KHVRS,slurm-pearcey,DATA61,"    Author: 1 Taylor, Stephen (Data61, Geelong AAHL) <Stephen.Taylor@data61.csiro.au>",,,,
+13733,KHVRS,nodejs,CSIRO Environment,    Author: 1 root <root@aahl-11-mel.it.csiro.au>,,,,
+13704,~KIL070,lnssched,DATA61,    Author: 14 pjk <philip.kilby@data61.csiro.au>,,,,
+13929,~KIL070,3dpackingpaper,DATA61,"    Author: 1 Kilby, Phil (Data61, Acton) <Philip.Kilby@data61.csiro.au>",,,,
+13764,~KLI039,ethereum-logging-framework,CSIRO Environment,    Author: 164 Chris <christopher.klinkmuller@csiro.au>,,,,
+13515,~KNI101,deeplab-example-directory,CSIRO HPC,    Author: 1 Josh Knights <kni101@bracewell-login.cm.hpc>,,,,
+13194,~KRU031,javascript-playground,DATA61,    Author: 1 Stuart Anderson <Stuart.Anderson@data61.csiro.au>,,,,
+13126,~LAH00B,askap-pipelinetasks,CSIRO S&A,    Author: 105 Eric Bastholm <eric.bastholm@csiro.au>,,,,
+13132,~LAH00B,base-askap,CSIRO S&A,    Author: 125 Stephen Ord <stephen.ord@csiro.au>,,,,
+13133,~LAH00B,lofar-common,CSIRO S&A,    Author: 20 Stephen Ord <stephen.ord@csiro.au>,,,,
+13350,~LAH00B,tracers,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13350.info.txt>13350</a>,ARCHIVED
+13351,~LAH00B,cfd,DATA61,"    Author: 79 Pereira, Gerald (Data61, Clayton) <Gerald.Pereira@data61.csiro.au>",,,,
+13489,~LAH00B,yandasoft,UNKNOWN - possible mirror,    Author: 362 Stephen Ord <steve.ord@gmail.com>,,,,
+13490,~LAH00B,yandasoft-install,CSIRO S&A,    Author: 22 Stephen Ord <stephen.ord@csiro.au>,,,,
+13492,~LAH00B,askapsoft,CSIRO S&A,    Author: 1481 MatthewWhiting <MatthewWhiting@csiro.au>,,,,
+13493,~LAH00B,askap-cmake,CSIRO S&A,    Author: 90 Stephen Ord <stephen.ord@csiro.au>,,,,
+13494,~LAH00B,askap-analysis,CSIRO S&A,    Author: 324 MatthewWhiting <MatthewWhiting@csiro.au>,,,,
+13495,~LAH00B,base-askapparallel,CSIRO S&A,    Author: 45 Eric Bastholm <eric.bastholm@csiro.au>,,,,
+13026,LANDSCAPES,tern-geonetwork,CSIRO Environment,    Author: 4 Matt Paget <matt.paget@csiro.au>,,,,
+13069,LASC,wan-nlg,DATA61<,    Author: 1 wan049 <stephen.wan@csiro.au>,,,,
+13323,LASC,kdmbert,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13323.info.txt>13323</a>,ARCHIVED
+13589,LASC,pipeline-nodejs,DATA61<,    Author: 8 jin00f <jin00f@YARMOUTH-EP.nexus.csiro.au>,,,,
+13130,~LEP021,imaxesforhololens,UNKNOWN - possible mirror,    Author: 3 Sandy <lepapesandy5@gmail.com>,,,,
+13663,~LEP021,collaborativescatterplotrendering,UNKNOWN - possible mirror,    Author: 1 Sandy <lepapesandy5@gmail.com>,,,,
+13098,~LI12E,cyw954907aeval1f,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13098.info.txt>13098</a>,ARCHIVED
+13190,~LI12E,boeing-rss-incabin-locn,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13190.info.txt>13190</a>,ARCHIVED
+13374,~LI12E,cypress-mesh,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13374.info.txt>13374</a>,ARCHIVED
+13507,~LIL042,gbr-1622,CSIRO generic,    Author: 1422 Adam Adham <adam.adham@csiro.au>,,,,
+13121,~LIU170,ar_music_display,DATA61,"    Author: 3 Liu, Zeruo (Data61, Black Mountain) <Zeruo.Liu@data61.csiro.au>",,,,
+13266,~LIU170,mrtk2,DATA61,"    Author: 5 Liu, Zeruo (Data61, Black Mountain) <Zeruo.Liu@data61.csiro.au>",,,,
+13420,~LIU170,mrtk_audio,DATA61,"    Author: 17 Liu, Zeruo (Data61, Black Mountain) <Zeruo.Liu@data61.csiro.au>",,,,
+13828,~LIU170,sculpture_sound,DATA61,"    Author: 15 Liu, Zeruo (Data61, Black Mountain) <Zeruo.Liu@data61.csiro.au>",,,,
+13703,~LOW138,treeofbestfit,CSIRO generic,    Author: 54 Thomas Lowe <thomas.lowe@csiro.au>,,,,
+13479,LSGF,network_analysis,UNKNOWN - possible mirror,    Author: 1 Andrew Terhorst <andrew.terhorst@protonmail.com>,,,,
+13961,~LYN074,nsw_transport,CSIRO User Left,    Author: 15 Roger Lynch <lyn074@csiro.au>,,,,
+13153,~MAC540,flying-fox-camp-analysis,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13580,MAC,csironotify,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13607,MAC,munki,CSIRO IM&T,    Author: 303 Bart Reardon <bart.reardon@csiro.au>,,,,
+13608,MAC,munki_pkgs,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13092,~MADJID.SARVGHADM.137,p51.-materials-compatibility,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13855,~MAL176,test,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13625,MBIENZ,erm-explorer-backend,CSIRO Mineral Resources,    Author: 628 Lingbo Jiang <Lingbo.Jiang@csiro.au>,,,,
+13626,MBIENZ,erm-explorer-portal-ui,DATA61,"    Author: 27 Jiang, Lingbo (Data61, North Ryde) <Lingbo.Jiang@csiro.au>",,,,
+13627,MBIENZ,portal-core,CSIRO generic,    Author: 433 Josh Vote <Josh.Vote@csiro.au>,,,,
+13930,~MCH019,city-resilience-helper,DATA61,"    Author: 3 McHugh, James (Data61, Marsfield) <James.Mchugh@data61.csiro.au>",,,,
+13134,~MCM16F,nodetesting,UNKNOWN - possible mirror,    Author: 244 mcm16f <mcm16f>,,,,
+13326,~MCM16F,xdmod,UNKNOWN - possible mirror,    Author: 18 Steve McMahon <steve@mcmahonfamily.id.au>,,,,
+13869,~MCM16F,partnerproj,UNKNOWN - possible mirror,    Author: 98 Steve McMahon <steve@mcmahonfamily.id.au>,,,,
+13353,~MEH011,telethon,CSIRO generic,    Author: 13 Choudhury <cho120@csiro.au>,,,,
+13974,~MEI036,imt-program-coordination,CSIRO IM&T,    Author: 18 Meintjes <mei036@csiro.au>,,,,
+13783,MGS,matlab-libraries-rshiny-integration,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13783.info.txt>13783</a>,ARCHIVED
+13932,MGS,coder.support,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13932.info.txt>13932</a>,ARCHIVED
+13460,MILX,forte-old,CSIRO H&B,"    Author: 56 Raniga, Parnesh (H&B, Herston - RBWH) <Parnesh.Raniga@csiro.au>",,,,
+13249,MMT,gdm-eda,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13249.info.txt>13249</a>,ARCHIVED
+13270,MMT,anecdotes,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13270.info.txt>13270</a>,ARCHIVED
+13842,~MOG010,waterqualityml,CSIRO User Left,    Author: 2 Tina Moghaddam <Tina.Moghaddam@csiro.au>,,,,
+13856,~MOG010,lambdamlhandler,CSIRO User Left,    Author: 13 Tina Moghaddam <Tina.Moghaddam@csiro.au>,,,,
+13641,~MOT032,go_electronic_props,UNKNOWN - possible mirror,    Author: 4 bmotevalli <b.motevalli@gmail.com>,,,,
+13005,MOTR,mobilerehabflutter_gd,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13005.info.txt>13005</a>,ARCHIVED
+13406,MP,pearcey,CSIRO Mineral Resources,"    Author: 7 Sheldon, Heather (Mineral Resources, Black Mountain) <Heather.Sheldon@csiro.au>",,,,
+13550,MST,huntngather,DATA61,    Author: 18 Chris Feigl <chris.feigl@data61.csiro.au>,,,,
+13591,MST,redox-machine,DATA61,"    Author: 91 Fischer, Meli (Data61, Docklands GS) <Meli.Fischer@data61.csiro.au>",,,,
+13592,MST,sac_2metals_n-gr,DATA61,"    Author: 1 Fischer, Meli (Data61, Docklands GS) <Meli.Fischer@data61.csiro.au>",,,,
+13631,MST,silver-np-rnn,DATA61,    Author: 59 Austin Tripp <austin.tripp@data61.csiro.au>,,,,
+13642,MST,huntngather_vis,UNKNOWN - possible mirror,    Author: 17 CuriousPi <47406933+CuriousPi@users.noreply.github.com>,,,,
+13645,MST,sacred,DATA61,    Author: 4 Austin Tripp <austin.tripp@data61.csiro.au>,,,,
+13056,MTRG,xethru,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13056.info.txt>13056</a>,ARCHIVED
+13062,MTRG,seamsense2,CSIRO Mineral Resources,    Author: 3 Andrew Strange <andrew.strange@csiro.au>,,,,
+130,MTRG,oculus,UNKNOWN - possible mirror,    Author: 6 jam19h <jam19h@545f43b0-c70e-7242-8dc4-f4b5ee72adaf>,,,,
+13688,MTRG,gnc,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+1381,MTRG,alloctrack,CSIRO generic,    Author: 4 Kazys Stepanas <kazys.stepanas@csiro.au>,,,,
+13519,~NAS045,gatorproject_progress,CSIRO generic,    Author: 36 Mathieu Nass <nas045@schafe-ph.nexus.csiro.au>,,,,
+13001,NAV,nav_backpack,DATA61,"    Author: 142 Hines, Tom (Data61, Pullenvale) <Tom.Hines@data61.csiro.au>",,,,
+13027,NAV,gazebo_assets,DATA61,    Author: 29 William Docherty <william.docherty@data61.csiro.au>,,,,
+13040,NAV,rviz_multi_agent_gui,DATA61,"    Author: 57 Tam, Benjamin (Data61, Pullenvale) <Benjamin.Tam@data61.csiro.au>",,,,
+13044,NAV,safety_node,DATA61,"    Author: 27 Hines, Tom (Data61, Pullenvale) <Tom.Hines@data61.csiro.au>",,,,
+13045,NAV,multiagent_msgs,DATA61,"    Author: 14 Hudson, Nicolas (Data61, Pullenvale) <Nicolas.Hudson@data61.csiro.au>",,,,
+13352,NAV,frontier3d,DATA61,    Author: 402 Jason Williams <jason.williams@data61.csiro.au>,,,,
+13476,NAV,decollide_behaviour,DATA61,"    Author: 15 Tam, Benjamin (Data61, Pullenvale) <Benjamin.Tam@csiro.au>",,,,
+13602,NAV,waypoint_manager,DATA61,"    Author: 57 Tam, Benjamin (Data61, Pullenvale) <Benjamin.Tam@data61.csiro.au>",,,,
+13603,NAV,waypoint_manager_gui,DATA61,"    Author: 57 Tam, Benjamin (Data61, Pullenvale) <Benjamin.Tam@data61.csiro.au>",,,,
+13934,NAV,rviz_estop_panel,DATA61,"    Author: 4 Hines, Tom (Data61, Pullenvale) <Tom.Hines@data61.csiro.au>",,,,
+13330,NCMIESSW,0249_ph_logger_software,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13330.info.txt>13330</a>,ARCHIVED
+13331,NCMIESSW,0249_durafet_ph_sensor_interface_software,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13331.info.txt>13331</a>,ARCHIVED
+13345,NCMIESSW,0069_remote_dish_sensing_sw,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13345.info.txt>13345</a>,ARCHIVED
+13257,~NEA040,bacto_pipe,UNKNOWN - possible mirror,    Author: 11 neavemj <matthewjneave1@gmail.com>,,,,
+13263,~NEA040,snp_to_pca,UNKNOWN - possible mirror,    Author: 2 neavemj <matthewjneave1@gmail.com>,,,,
+13273,NEAR,near-building-stock,CSIRO Energy,    Author: 37 Giles Browne <giles.browne@csiro.au>,,,,
+13915,~NEL081,carp-prod,DATA61<,    Author: 8 Sam Nelson <nel081@corvette-bm.nexus.csiro.au>,,,,
+13300,NET,richdev,CSIRO,    Author: 1 na-wot014 <na-wot014@spoon-per.it.csiro.au>,,,,
+13304,NET,wapcheck,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13304.info.txt>13304</a>,ARCHIVED
+13604,NET,ise-tacacs-ip-gen,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13604.info.txt>13604</a>,ARCHIVED
+13984,NET,minemeld-misp,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13984.info.txt>13984</a>,ARCHIVED
+13235,~NEU016,siemens,CSIRO DP&S,"    Author: 6 Pierrick, Bourgeat (DP&S, Herston - RBWH) <Pierrick.Bourgeat@csiro.au>",,,,
+13236,~NEU016,deepmri2,CSIRO DP&S,"    Author: 3 Pierrick, Bourgeat (DP&S, Herston - RBWH) <Pierrick.Bourgeat@csiro.au>",,,,
+13354,NEW,place_recognition,DATA61,"    Author: 40 Bailey, Tim (Data61, Eveleigh ATP) <Tim.Bailey@data61.csiro.au>",,,,
+13745,NEW,lib_gdal,UNKNOWN - possible mirror,    Author: 430 Dmitry Baryshnikov <bishop.dev@gmail.com>,,,,
+13746,NEW,libgeotiff,UNKNOWN - possible mirror,    Author: 747 Frank Warmerdam <warmerdam@pobox.com>,,,,
+13748,NEW,proj4,CSIRO generic,    Author: 5 Kazys Stepanas <kazys.stepanas@csiro.au>,,,,
+13749,NEW,sqlite3,CSIRO generic,    Author: 9 Kazys Stepanas <kazys.stepanas@csiro.au>,,,,
+13759,NEW,liblas,UNKNOWN - possible mirror,    Author: 2247 Howard Butler <hobu.inc@gmail.com>,,,,
+13802,NEW,paintcloud,DATA61,"    Author: 1122 Penfold, Dean (Data61, Pullenvale) <Dean.Penfold@data61.csiro.au>",,,,
+13937,NEW,eigen,UNKNOWN - possible mirror,    Author: 279512 remote-hg <>,,,,
+13948,NEW,dlfcn-win32,UNKNOWN - possible mirror,    Author: 46 Timothy Gu <timothygu99@gmail.com>,,,,
+13601,NEX,nextstrain-web-frontend,CSIRO IM&T,    Author: 18 Ludbey <lud024@csiro.au>,,,,
+1304,NKSW,hexapod_teleop,CSIRO DP&S,"    Author: 4 Kottege, Navinda (DP&S, Pullenvale) <Navinda.Kottege@csiro.au>",,,,
+13458,~NUN017,kiteproject_sw,DATA61,"    Author: 8 Nunner, Sophia (Data61, Pullenvale) <Sophia.Nunner@data61.csiro.au>",,,,
+13821,NWSFTCP,model,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13396,~OBR17M,glass-uvdata,CSIRO CASS,"    Author: 14 O'Brien, Andrew (CASS, Marsfield) <Andrew.O'Brien@csiro.au>",,,,
+13447,~OBR17Q,bioghost,CSIRO H&B,"    Author: 36 O'Brien, Aidan (H&B, North Ryde) <Aidan.O'Brien@csiro.au>",,,,
+13819,OFFMA,ansible,DATA61<,    Author: 115 Alexander Krumpholz <Alexander.Krumpholz@csiro.au>,,,,
+13890,OFW,kn-prod-report,CSIRO L&W,"    Author: 4 Wang, Jevy (L&W, Black Mountain) <Jevy.Wang@csiro.au>",,,,
+13698,~OGR013,probabilistic_coastal_hazard_zones,CSIRO Environment,    Author: 57 ogr013 <Julian.O'Grady@csiro.au>,,,,
+13258,ONACI,cors-proxy,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13258.info.txt>13258</a>,ARCHIVED
+13815,ONACI,cwqm-data,CSIRO Environment,    Author: 26 Erin Kenna <erin.kenna@csiro.au>,,,,
+13953,ONACI,gitops-devops-group,CSIRO O&A,"    Author: 9 Dowideit, Sven (O&A, St. Lucia) <Sven.Dowideit@csiro.au>",,,,
+1382,ONT3,snomed-category-builder,CSIRO generic,    Author: 24 Alejandro Metke <alejandro.metke@csiro.au>,,,,
+13506,~ORD007,bayesian_shiny,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13506.info.txt>13506</a>,ARCHIVED
+13744,~ORD007,gasex_shiny,CSIRO IM&T,"    Author: 73 Ord, Louise (IM&T, Eveleigh ATP) <Louise.Ord@csiro.au>",,,,
+13960,~ORD007,transit_deck,CSIRO IM&T,"    Author: 31 Ord, Louise (IM&T, Eveleigh ATP) <Louise.Ord@csiro.au>",,,,
+13274,OZWHEAT,2018_kabinga_seed_counts,CSIRO A&F,    Author: 4 David Deery <david.deery@csiro.au>,,,,
+13025,~PAG064,vsc-workspaces,CSIRO Environment,    Author: 3 Matt Paget <matt.paget@csiro.au>,,,,
+13017,~PAN081,qfly_cynthia,CSIRO generic,    Author: 55 Castro-Vargas <cas212@csiro.au>,,,,
+13219,~PAN081,scripts_gunjan,CSIRO IM&T,    Author: 28 Pandey <pan081@csiro.au>,,,,
+13445,~PAN081,proteomics_asif,CSIRO L&W,"    Author: 7 Pandey, Gunjan (L&W, Black Mountain) <Gunjan.Pandey@csiro.au>",,,,
+13967,~PAR470,ctmp,DATA61,"    Author: 1 Park, Chanoh (Data61, Pullenvale) <Chanoh.Park@data61.csiro.au>",,,,
+13794,PCI,protari-smith,DATA61,    Author: 14 Arthur Street <arthur.street@data61.csiro.au>,,,,
+13013,~PEA25I,bitbucket_test,UNKNOWN - possible mirror,    Author: 1 Stephen <36123293+sparce@users.noreply.github.com>,,,,
+13903,~PEN238,paintcloud,DATA61,"    Author: 9 Penfold, Dean (Data61, Pullenvale) <Dean.Penfold@data61.csiro.au>",,,,
+13868,~PEN244,match-awssso-csiro,CSIRO IM&T,"    Author: 27 Ho, Xavier (IM&T, Clayton) <Xavier.Ho@csiro.au>",,,,
+13003,~PER202,datacube-experiments,CSIRO generic,    Author: 8 J-M <jean-michel.perraud@csiro.au>,,,,
+13030,~PER202,prototype-0519,CSIRO Environment,    Author: 55 Ben Leighton <Ben.Leighton@csiro.au>,,,,
+13831,~PER202,deltaswift,CSIRO generic,    Author: 2 J-M <jean-michel.perraud@csiro.au>,,,,
+13636,~PER271,test,CSIRO A&F,"    Author: 5 Pereira-Ishak, Najid (A&F, Waite Campus) <Najid.Pereira-Ishak@csiro.au>",,,,
+13638,~PER271,git_test_repo,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13473,PER,yaml_cfg,DATA61,    Author: 20 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13474,PER,perception_yaml,DATA61,    Author: 106 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13508,PER,command-line-arguments,UNKNOWN - possible mirror,    Author: 31 Mark Cox <markcox80@gmail.com>,,,,
+13559,PER,quaternion,DATA61<,    Author: 30 Mark Cox <mark.cox@csiro.au>,,,,
+13560,PER,tinyply-cmake,DATA61,    Author: 6 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13561,PER,video-ply,DATA61<,    Author: 262 Mark Cox <mark.cox@csiro.au>,,,,
+13562,PER,pose_estimation,DATA61,    Author: 484 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13563,PER,camera-calibration-ws,DATA61,    Author: 131 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13571,PER,darpa_gate_pose,DATA61,    Author: 24 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13572,PER,darpa-gate-pose-ws,DATA61,    Author: 16 Mark Cox <mark.cox@data61.csiro.au>,,,,
+13303,PES,docker-jupyter-notebook,UNKNOWN - possible mirror,    Author: 67 Jeff <jeffyjefflabs@gmail.com>,,,,
+13481,PES,lleeds-cloud-deployment,UNKNOWN - possible mirror,    Author: 228 fid010 <Safid4149>,,,,
+13513,PES,differentially-private-decision-trees,UNKNOWN - possible mirror,    Author: 1 Brian Thorne <brian@thorne.link>,,,,
+13539,PES,lleeds,DATA61,    Author: 45 Jeremy Thorp <jeremy.thorp@data61.csiro.au>,,,,
+13540,PES,lleeds-ato,CSIRO generic,    Author: 9 Chris Wilcox <christopher.wilcox@csiro.au>,,,,
+13657,PES,standardata,DATA61,    Author: 177 Alex Chapman <a.chapman@data61.csiro.au>,,,,
+13708,PES,markdown61,DATA61,    Author: 14 Alex Chapman <a.chapman@data61.csiro.au>,,,,
+13785,PES,lleeds-access-control,DATA61,    Author: 108 Brendon Yenson <brendon.yenson@data61.csiro.au>,,,,
+13647,PFS,pfs_modis_pgrfoo,CSIRO IM&T,    Author: 1 Daniel Collins <daniel.collins@csiro.au>,,,,
+13912,PHENOMOB,sick_scan,UNKNOWN - possible mirror,    Author: 197 Unknown <michael.lehning@gmail.com>,,,,
+13863,PHENOSMART,jupyter-notebooks,CSIRO User Left,    Author: 11 Geoff Bull <geoff.bull@csiro.au>,,,,
+13872,PHENOSMART,openalea-sconsx,UNKNOWN - possible mirror,    Author: 103 Frederic Boudon <frederic.boudon@cirad.fr>,,,,
+13873,PHENOSMART,openalea-core,UNKNOWN - possible mirror,    Author: 622 Samuel Dufour-Kowalski <samuel.dufour@cirad.fr>,,,,
+13874,PHENOSMART,openalea-grapheditor,UNKNOWN - possible mirror,    Author: 128 Daniel Barbeau <daniel.barbeau@sophia.inria.fr>,,,,
+13875,PHENOSMART,openalea-vpltk,UNKNOWN - possible mirror,    Author: 140 Julien Coste <julien.coste@inria.fr>,,,,
+13876,PHENOSMART,openalea-visualea,UNKNOWN - possible mirror,    Author: 297 Samuel Dufour-Kowalski <samuel.dufour@cirad.fr>,,,,
+13877,PHENOSMART,openalea-misc,UNKNOWN - possible mirror,    Author: 113 Thomas Cokelaer <cokelaer@gmail.com>,,,,
+13878,PHENOSMART,openalea-oalab,UNKNOWN - possible mirror,    Author: 452 Julien Coste <julien.coste@inria.fr>,,,,
+13879,PHENOSMART,openalea,UNKNOWN - possible mirror,    Author: 1054 Samuel Dufour-Kowalski <samuel.dufour@cirad.fr>,,,,
+13880,PHENOSMART,openalea-plantgl,UNKNOWN - possible mirror,    Author: 791 Frederic Boudon <frederic.boudon@cirad.fr>,,,,
+13731,~PIG017,bmf-hello-world,CSIRO Environment,    Author: 5 Simon Pigot <Simon.Pigot@csiro.au>,,,,
+13935,PIXIE,pixie-archive,UNKNOWN - possible mirror,    Author: 407 subgit <support@subgit.com>,,,,
+13686,PM,csiro-anzmest,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13686.info.txt>13686</a>,ARCHIVED
+13871,PM,attachmentgenie-ufw,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13871.info.txt>13871</a>,ARCHIVED
+13692,~PON040,dfat-ephyto-origin-ui,DATA61,    Author: 18 Alexander Ponomarev <alex.ponomarev@data61.csiro.au>,,,,
+13074,PROTARI,protari-sample-data,DATA61,    Author: 28 Josh Smith <josh.smith@data61.csiro.au>,,,,
+13891,PROTARI,protari-powerbi-connector,DATA61,    Author: 35 Josh Smith <josh.smith@data61.csiro.au>,,,,
+1303,PUP,z_archive_imt_sap,CSIRO IM&T Dinan Yin,    Author: 95 Dinan Yin <yin006@csiro.au>,,,,
+13259,PUP,mirror-eyp-logrotate,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13259.info.txt>13259</a>,ARCHIVED
+13542,PUP,mirror-puppet-module-ssh,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13542.info.txt>13542</a>,ARCHIVED
+13543,PUP,mirror-login_defs,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13543.info.txt>13543</a>,ARCHIVED
+13683,PUP,mirror-eyp-selinux,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13683.info.txt>13683</a>,ARCHIVED
+13684,PUP,mirror-eyp-apparmor,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13684.info.txt>13684</a>,ARCHIVED
+1378,PUP,z_archive_imt_boot_cleanup,CSIRO IM&T Dinan Yin,    Author: 11 Dinan Yin <Dinan.Yin@csiro.au>,,,,
+13923,PUP,mirror-puppet-nginx,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13923.info.txt>13923</a>,ARCHIVED
+13924,PUP,mirror-puppet-archive,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13924.info.txt>13924</a>,ARCHIVED
+13925,PUP,mirror-puppet-telegraf,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13925.info.txt>13925</a>,ARCHIVED
+13926,PUP,mirror-puppet-grafana,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13926.info.txt>13926</a>,ARCHIVED
+13100,PVORF,hardwaredesign,CSIRO Energy,    Author: 1 Michael Rae <Michael.Rae@csiro.au>,,,,
+13470,~RAK010,smart_city_mission,DATA61,    Author: 1 Thierry Rakotoarivelo <thierry.rakotoarivelo@data61.csiro.au>,,,,
+13538,~RAK010,privbayes,DATA61,    Author: 5 Thierry Rakotoarivelo <thierry.rakotoarivelo@data61.csiro.au>,,,,
+13250,RDAD,rda-dataset,CSIRO generic,    Author: 1 Nicholas Car <nicholas.car@csiro.au>,,,,
+13957,RDS,rdp_harvest,CSIRO generic,    Author: 0 NEXUS\hog097 <dominic.hogan@csiro.au>,,,,
+13965,READ,reading_groups_and_representations,DATA61,"    Author: 7 Dunne, Rob (Data61, Eveleigh ATP) <Rob.Dunne@data61.csiro.au>",,,,
+13051,~RET017,crispr-chip,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13471,~RIZ008,compas-simd,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13471.info.txt>13471</a>,ARCHIVED
+1357,~RIZ008,scripts,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/1357.info.txt>1357</a>,ARCHIVED
+13732,ROAM,bmf-deploy,CSIRO Environment,    Author: 87 Simon Pigot <Simon.Pigot@csiro.au>,,,,
+13530,ROAMWORKFLOW,old_bluelink_intake_esm,CSIRO Environment,    Author: 2 Paul Branson <paul.branson@csiro.au>,,,,
+13832,RPLPJ,shiny_app_sln,CSIRO generic,    Author: 24 R. Pascual <ricardo.pascual@csiro.au>,,,,
+13449,RPSPJ,726_pestpopndmicsshiny,CSIRO generic,    Author: 151 R. Pascual <ricardo.pascual@csiro.au>,,,,
+13593,RPSPJ,726_pestpopndmics_time_4console,CSIRO generic,    Author: 30 R. Pascual <ricardo.pascual@csiro.au>,,,,
+13055,~RYB003,a2a,DATA61,"    Author: 46 Rybinski, Maciek (Data61, Marsfield) <Maciek.Rybinski@data61.csiro.au>",,,,
+13398,~SAH012,clinical-score-prediction-withcnn,CSIRO H&B,"    Author: 1 Saha, Susmita (H&B, Parkville) <Susmita.Saha@csiro.au>",,,,
+13096,SAS,sssc,CSIRO S&A,    Author: 133 Geoffrey Squire <squ022@triplewood-bm.nexus.csiro.au>,,,,
+13127,SAS,sas_pyui,CSIRO IM&T,"    Author: 114 Liz Cooper-Williams (IMT, St. Lucia) <Liz.Cooper-Williams@csiro.au>",,,,
+13882,SBDCH,dch-blazegraph-container,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13882.info.txt>13882</a>,ARCHIVED
+13987,SBDCH,validation-experiment,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13987.info.txt>13987</a>,ARCHIVED
+13343,SCA,vrops-notifier,CSIRO IM&T,"    Author: 2 Bainrot, Max (IM&T, Black Mountain) <Max.Bainrot@csiro.au>",,,,
+13694,SCA,mycloud-ghec-pilot,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13694.info.txt>13694</a>,ARCHIVED
+13854,SCA,zzz-vrotest-archive,UNKNOWN - possible mirror,    Author: 33 superuser <superuser@mail.com>,,,,
+13710,SCCTV,cctv-city-sim,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13710.info.txt>13710</a>,ARCHIVED
+13834,SCCTV,cctv-projection,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13834.info.txt>13834</a>,ARCHIVED
+13320,SCI040,alf-spacecraft-repl,UNKNOWN - possible mirror,    Author: 57 YingCGooi <25574844+YingCGooi@users.noreply.github.com>,,,,
+13478,SCI040,alf-elm,DATA61,"    Author: 31 O'Connor, Hugo (Data61, Eveleigh ATP) <Hugo.O'Connor@data61.csiro.au>",,,,
+13009,~SCO305,intvi_cmri,CSIRO User Left,    Author: 484 Suzanne Scott <suzanne.scott@csiro.au>,,,,
+13033,~SCO305,resources_perl,CSIRO H&B,"    Author: 2 Scott, Suzanne (H&B, North Ryde) <Suzanne.Scott@csiro.au>",,,,
+13036,~SCO305,intvi_pipeline,CSIRO User Left,    Author: 373 Suzanne Scott <suzanne.scott@csiro.au>,,,,
+13071,~SCO305,intvi_external-data,CSIRO User Left,    Author: 180 Suzanne Scott <suzanne.scott@csiro.au>,,,,
+13383,~SCO305,teeth,CSIRO H&B,"    Author: 18 Scott, Suzanne (H&B, North Ryde) <Suzanne.Scott@csiro.au>",,,,
+13472,~SCO305,misc_marsuipal-aligns,CSIRO User Left,    Author: 7 Suzanne Scott <suzanne.scott@csiro.au>,,,,
+13598,~SCO305,cap_model_expt1_sanger,CSIRO H&B,"    Author: 5 Scott, Suzanne (H&B, North Ryde) <Suzanne.Scott@csiro.au>",,,,
+13679,~SCO305,intvi_testshort,CSIRO User Left,    Author: 2 Suzanne Scott <suzanne.scott@csiro.au>,,,,
+13945,~SCO305,tools_align,CSIRO User Left,    Author: 19 Suzanne Scott <suzanne.scott@csiro.au>,,,,
+13032,SCPD,metis,CSIRO generic,    Author: 29 Sean Pringle <Sean.Pringle@csiro.au>,,,,
+13285,SCPD,zarchive-ddn_diagnostic_scripts,CSIRO IM&T,"    Author: 1 Rose, David (IM&T, Clayton) <David.Rose@csiro.au>",,,,
+13430,SCPD,dmf,CSIRO IM&T,"    Author: 4 Edwards, Peter (IM&T, Clayton) <Peter.Edwards@csiro.au>",,,,
+13443,SCPD,zarchive-foundational-reporting-ansible,CSIRO generic,    Author: 30 Sean Pringle <sean.pringle@csiro.au>,,,,
+13632,SCPD,zarchive-foundational-reporting-starfish-config,CSIRO IM&T,"    Author: 43 Pringle, Sean (IM&T, Black Mountain) <Sean.Pringle@csiro.au>",,,,
+13696,SCPD,zarchive-csiro-mapper,CSIRO IM&T,"    Author: 7 Cheeseman, Brian (IM&T, Black Mountain) <Brian.Cheeseman@csiro.au>",,,,
+13048,SCS-DSS,vcap-sci,DATA61,"    Author: 1 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13195,SCS-DSS,bugfinder,DATA61,"    Author: 182 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13402,SCS-DSS,dataairlock-v2,DATA61,"    Author: 561 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13404,SCS-DSS,dataairlock-provider-v2,DATA61,"    Author: 9 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13405,SCS-DSS,dataairlock-executor-v2,DATA61,"    Author: 54 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13918,SCS-DSS,genome-isolator,DATA61,"    Author: 573 Gaire, Raj (Data61, Acton) <Raj.Gaire@csiro.au>",,,,
+13282,SC,accounting,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13282.info.txt>13282</a>,ARCHIVED
+13375,SC,aws-ecs-scale,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13375.info.txt>13375</a>,ARCHIVED
+1360,SC,sensorcloud-api-v2,CSIRO Energy,    Author: 245 Chris Sharman <Chris.Sharman@csiro.au>,,,,
+13800,SC,datasource-api,DATA61,    Author: 425 Akram Hameed <akram.hameed@data61.csiro.au>,,,,
+13892,SC,rabbit-senaps-auth-bridge,DATA61,    Author: 30 Akram Hameed <akram.hameed@data61.csiro.au>,,,,
+13909,SC,senaps-registry-files,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13909.info.txt>13909</a>,ARCHIVED
+13992,SED,snomap-ed,CSIRO H&B,"    Author: 6 Zhang, Ming (H&B, Westmead) <Ming.Zhang2@csiro.au>",,,,
+13884,~SEE044,create_project,CSIRO Environment,    Author: 31 Blake Seers <Blake.Seers@csiro.au>,,,,
+1353,~SEV012,roots-biomass-and-yield-asreml,CSIRO Agriculture,"    Author: 2 Severini, Alan (Agriculture, Black Mountain) <Alan.Severini@csiro.au>",,,,
+13616,SF,fogss_fortran,UNKNOWN - possible mirror,    Author: 109 subgit <support@subgit.com>,,,,
+13271,~SHA34Z,senaps-workshop,CSIRO Energy,    Author: 90 Chris Sharman <chris.sharman@csiro.au>,,,,
+13425,~SHA425,eef_apsim,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13569,~SHE36C,distdetect,CSIRO H&B,"    Author: 1 Shen, Kaikai (H&B, North Ryde) <Kaikai.Shen@csiro.au>",,,,
+13570,~SHE36C,tractencoding,CSIRO H&B,"    Author: 1 Shen, Kaikai (H&B, North Ryde) <Kaikai.Shen@csiro.au>",,,,
+13006,~SIN17M,wb_git_intro,CSIRO A&F,    Author: 6 Aswin Singaram Natarajan <aswin.singaramnatarajan@csiro.au>,,,,
+13024,~SIN17M,plantstem_testing,CSIRO A&F,    Author: 30 col469 <col469@csiro.au>,,,,
+13372,~SIN17M,dc_survey_responses,CSIRO A&F,    Author: 3 Aswin Singaram Natarajan <aswin.singaramnatarajan@csiro.au>,,,,
+13583,~SIN17M,barley_durum,CSIRO A&F,    Author: 2 Aswin Singaram Natarajan <aswin.singaramnatarajan@csiro.au>,,,,
+13637,~SIN17M,2018_mace_hege_nir,CSIRO A&F,    Author: 10 Aswin Singaram Natarajan <aswin.singaramnatarajan@csiro.au>,,,,
+13646,~SIN17M,poepleserv,CSIRO A&F,    Author: 2 Aswin Singaram Natarajan <aswin.singaramnatarajan@csiro.au>,,,,
+13546,SITAW,azure_cloud,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+1317,~SMI9B6,testjsonidentity,CSIRO Finance,    Author: 1 Brooke Smith <brooke.smith@csiro.au>,,,,
+13527,~SMI9CY,test,CSIRO A&F,"    Author: 34 Smith, Adam (A&F, Waite Campus) <A.Smith@csiro.au>",,,,
+13534,~SMI9CY,toolbox_repo,CSIRO A&F,"    Author: 3 Smith, Adam (A&F, Waite Campus) <A.Smith@csiro.au>",,,,
+13639,~SMI9CY,new_test_repo,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13640,~SMI9CY,newest_test_repo,CSIRO A&F,"    Author: 1 Smith, Adam (A&F, Waite Campus) <A.Smith@csiro.au>",,,,
+13139,~SPI072,ddqc_database,CSIRO IM&T,    Author: 98 Andrew Spiers <andrew@andrewspiers.net>,,,,
+13624,~SQU022,sam-jupyterhub,CSIRO Mineral Resources,"    Author: 113 Woodcock, Robert (Mineral Resources, Black Mountain) <Robert.Woodcock@csiro.au>",,,,
+13701,SRNT,serenity-k8s,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13613,SSC,sds-source,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+132,SSH,enliven,CSIRO User Left,    Author: 13 Qing Zhang <qing.zhang@csiro.au>,,,,
+13655,SSP,r-scripts,CSIRO A&F,"    Author: 4 Malone, Brendan (A&F, Black Mountain) <Brendan.Malone@csiro.au>",,,,
+13714,~STE6AB,lib_gdal,UNKNOWN - possible mirror,    Author: 430 Dmitry Baryshnikov <bishop.dev@gmail.com>,,,,
+13716,~STE6AB,proj,UNKNOWN - possible mirror,    Author: 1804 Frank Warmerdam <warmerdam@pobox.com>,,,,
+13718,~STE6AB,libgeotiff,UNKNOWN - possible mirror,    Author: 747 Frank Warmerdam <warmerdam@pobox.com>,,,,
+13742,~STE6AB,slowcolcon,CSIRO generic,    Author: 2 Kazys Stepanas <kazys.stepanas@csiro.au>,,,,
+13277,STPC,fallingparticlehxtest,CSIRO User Left,    Author: 45 sti095 <Ryan.Stiff@csiro.au>,,,,
+13753,SVS,lumachain,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13753.info.txt>13753</a>,ARCHIVED
+13717,TAI031,phishing-mq-scoring,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13717.info.txt>13717</a>,ARCHIVED
+13200,~TAM038,behaviour_generator,DATA61,"    Author: 18 Tam, Benjamin (Data61, Pullenvale) <Benjamin.Tam@csiro.au>",,,,
+13618,TA,ta_svn_various_tools,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13618.info.txt>13618</a>,ARCHIVED
+13620,TA,ta_svn_terrae,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13620.info.txt>13620</a>,ARCHIVED
+13002,~TAY330,intro_to_r,CSIRO L&W,"    Author: 5 Taylor, Matthew (L&W, Black Mountain) <M.Taylor@csiro.au>",,,,
+13586,~TEN028,specialgait,UNKNOWN - possible mirror,"    Author: 20 Tennakoon, Eranda (QUT) <kulatunga.tennakoon@hdr.qut.edu.au>",,,,
+13689,TERN,acef-geonetwork,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13689.info.txt>13689</a>,ARCHIVED
+1336,~THE036,siss-release,CSIRO generic,    Author: 4 pthewcsiro <peter.thew@csiro.au>,,,,
+1333,THIMG,thermalviz,CSIRO Digital,"    Author: 1 Borges, Paulo (Digital, Pullenvale) <Paulo.Borges@csiro.au>",,,,
+13758,~THO79J,user_specific_scripts,CSIRO User Left,    Author: 2 Kurt Thompson <kurt.thompson@csiro.au>,,,,
+1351,~THO7A4,fletcher-thompson,CSIRO Digital,"    Author: 1 Thompson, Fletcher (Digital, Pullenvale) <Fletcher.Thompson@csiro.au>",,,,
+13131,~THO800,ocrad,DATA61,    Author: 4 tho800 <michael.thoreau@data61.csiro.au>,,,,
+13524,~THO800,weak_soup,DATA61,"    Author: 5 Thoreau, Michael (Data61, Pullenvale) <Michael.Thoreau@data61.csiro.au>",,,,
+13148,TMR,snomap,CSIRO H&B,"    Author: 5 Zhang, Ming (H&B, Marsfield) <Ming.Zhang2@csiro.au>",,,,
+13070,TPD,lw_cpp,CSIRO O&A,"    Author: 1 Gorton, Bec (O&A, Hobart) <Bec.Gorton@csiro.au>",,,,
+13089,TPD,team_code_overview,CSIRO O&A,"    Author: 5 Thomson, Robin (O&A, Hobart) <Robin.Thomson@csiro.au>",,,,
+13117,TPD,sessfdatascripts,CSIRO O&A,"    Author: 299 Thomson, Robin (O&A, Hobart) <Robin.Thomson@csiro.au>",,,,
+13766,TPD,sessf_databasepreparation,CSIRO Environment,    Author: 8 Mike Fuller <ful072@csiro.au>,,,,
+13597,TRANSIT,transit.global,CSIRO L&W,"    Author: 10 Read, Arthur (L&W, Black Mountain) <Arthur.Read@csiro.au>",,,,
+13628,~TRI091,test,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13674,TRIK,aspect-encode,CSIRO Environment,    Author: 2 ros260 <ros260@hobart-wireless-15-103.pool.csiro.au>,,,,
+13897,TROPFISH,npf_rbp_mse,CSIRO A&F,    Author: 2 Deng <den123@csiro.au>,,,,
+13202,UC,selfservice,CSIRO IM&T,    Author: 109 car62n <john.carlin@csiro.au>,,,,
+13922,UC,vcunits,CSIRO generic,    Author: 22 www-data <www-data@voicenms.it.csiro.au>,,,,
+13979,UC,delegation-export,CSIRO IM&T,"    Author: 12 McAvoy, Jason (IM&T, Yarralumla) <Jason.Mcavoy@csiro.au>",,,,
+13575,~VAK002,ppvdb,CSIRO Manufacturing,"    Author: 7 Vak, Doojin (Manufacturing, Clayton) <Doojin.Vak@csiro.au>",,,,
+13234,~VAN298,uc_code,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13234.info.txt>13234</a>,ARCHIVED
+13288,~VAN298,uc_hw_baseboard,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13288.info.txt>13288</a>,ARCHIVED
+13289,~VAN298,uc_hw_coildriver,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13290,~VAN298,uc_hw_powersupply,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13291,~VAN298,uc_hw_sensors,CSIRO Minerals,    Author: 5 Matt van de Werken <matt.vandewerken@csiro.au>,,,,
+13292,~VAN298,uc_hw_pendant,CSIRO Minerals,    Author: 2 Edward Prochon <eprochon@mining3.com>,,,,
+13293,~VAN298,uc_hw_lib,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13685,~VAN298,minex_force_torque,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13685.info.txt>13685</a>,ARCHIVED
+13554,~VAN468,n_pair_loss_test,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13763,~VAN468,tcc,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13512,~VEN037,bayesian-shiny,DATA61,"    Author: 1 Venables, Bill (Data61, Dutton Park Qld) <Bill.Venables@gmail.com>",,,,
+13108,VN,quadtree-globe,CSIRO Mineral Resources,"    Author: 8 Evans, Ben (Mineral Resources, Pullenvale) <ben.evans@csiro.au>",,,,
+13662,VN,voxelnet_bowen,CSIRO User Left,    Author: 38 Ludbey <lud024@csiro.au>,,,,
+13456,VPDAD,nodejs_via,CSIRO Environment,    Author: 5 Jack <man291@csiro.au>,,,,
+13595,VPDAD,nodejs_via_docker,DATA61,"    Author: 5 Manderson, Jack (Data61, Pullenvale) <Jack.Manderson@data61.csiro.au>",,,,
+13635,~WAN117,pulse-detector,DATA61,"    Author: 9 Wang, Chen <Chen.Wang@data61.csiro.au>",,,,
+13389,~WAS038,portable-xrf-wheat-p-method-dev,CSIRO generic,    Author: 0 NEXUS\was038 <anton.wasson@csiro.au>,,,,
+13633,~WAS038,epue_lidar_to_biomass,CSIRO generic,    Author: 0 NEXUS\was038 <anton.wasson@csiro.au>,,,,
+13682,~WAS038,epue_weather_and_soil,CSIRO A&F,    Author: 3 was038 <Anton.Wasson@csiro.au>,,,,
+13719,~WAS038,epue_wba_poster,CSIRO A&F,    Author: 1 was038 <Anton.Wasson@csiro.au>,,,,
+13812,~WAS038,maringa_x_spica_tails,CSIRO A&F,    Author: 6 was038 <Anton.Wasson@csiro.au>,,,,
+13893,~WAS038,xrf-for-p-uptake,CSIRO A&F,    Author: 2 was038 <Anton.Wasson@csiro.au>,,,,
+13978,~WAS038,root-crown-analysis,CSIRO A&F,    Author: 4 was038 <Anton.Wasson@csiro.au>,,,,
+13889,~WAT421,active-albatross,CSIRO IM&T,"    Author: 21 Watkins, Chris (IM&T, Clayton) <Chris.Watkins@csiro.au>",,,,
+13980,~WAT421,horovod_tests,CSIRO IM&T,"    Author: 2 Watkins, Chris (IM&T, Clayton) <Chris.Watkins@csiro.au>",,,,
+13129,WATERPLAN,water-plan,DATA61,"    Author: 170 McHugh, James (Data61, Marsfield) <James.Mchugh@data61.csiro.au>",,,,
+13156,~WEI110,fused_asd_headwall_specim,DATA61,    Author: 13 Ran Wei <Ran.Wei@data61.csiro.au>,,,,
+13217,~WEI110,testing_using_existing_models_and_datasets,DATA61,    Author: 2 Ran Wei <Ran.Wei@data61.csiro.au>,,,,
+13963,~WEI110,ximea_capturer_corycaeus,DATA61,    Author: 25 Ran Wei <Ran.Wei@data61.csiro.au>,,,,
+13023,~WIL9BR,dst_ansible,CSIRO generic,    Author: 3 Stewart Wilde <wil9br@fallout2-hf.nexus.csiro.au>,,,,
+13369,~WIL9CQ,nmi_genedoping_pipeline,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13369.info.txt>13369</a>,ARCHIVED
+13793,~WIL9CQ,gtscan_final,CSIRO H&B,"    Author: 53 Wilson, Laurence (H&B, North Ryde) <Laurence.Wilson@csiro.au>",,,,
+13185,~WIL9EC,frontier3d,DATA61,    Author: 3 Jason Williams <jason.williams@data61.csiro.au>,,,,
+13022,WIL,wildcat_dataset_utilities,DATA61,"    Author: 9 Catt, Gavin (Data61, Pullenvale) <Gavin.Catt@data61.csiro.au>",,,,
+13078,WIL,wildcat_regression_data,DATA61,"    Author: 9 Vale, Michael (Data61, Pullenvale) <Michael.Vale@data61.csiro.au>",,,,
+13861,WIL,wildcat_ros,DATA61,"    Author: 211 Catt, Gavin (Data61, Pullenvale) <Gavin.Catt@data61.csiro.au>",,,,
+1310,~WIS056,mmd-latex-csiro,UNKNOWN - possible mirror,    Author: 34 Fletcher T. Penney <fletcher@fletcherpenney.net>,,,,
+13177,WM,wm_service,CSIRO generic,    Author: 28 Neville Herrmann <neville.herrmann@csiro.au>,,,,
+13264,~WOO392,proms-clients-java,CSIRO ICT Centre,"    Author: 21 Wise, Catherine (ICT Centre, Acton) <Catherine.Wise@csiro.au>",,,,
+13192,WP,nba-starter-plugin,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13192.info.txt>13192</a>,ARCHIVED
+13220,WP,nba-plugin-tribe-events,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13220.info.txt>13220</a>,ARCHIVED
+13328,WP,nba-plugin-tablepress,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13328.info.txt>13328</a>,ARCHIVED
+13385,WP,nba-plugin-csiropedia,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13385.info.txt>13385</a>,ARCHIVED
+13725,WP,nba-mini,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13767,WP,cgb-scripts,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13767.info.txt>13767</a>,ARCHIVED
+13898,WP,nba-plugin-logo-changer,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13898.info.txt>13898</a>,ARCHIVED
+13970,WP,nba-plugin-apsim,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13970.info.txt>13970</a>,ARCHIVED
+13407,~XI003,archived-senapstasks,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13407.info.txt>13407</a>,ARCHIVED
+13408,~XI003,archived-as-client-python,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13408.info.txt>13408</a>,ARCHIVED
+13180,~XU052,slo-ai,DATA61,"    Author: 4 Xu, Chang (Data61, Marsfield) <Chang.Xu@data61.csiro.au>",,,,
+13312,~YAD003,slo-ai,DATA61,"    Author: 4 Xu, Chang (Data61, Marsfield) <Chang.Xu@data61.csiro.au>",,,,
+13061,~YAN073,dc-ngvl,CSIRO Mineral Resources,    Author: 164 Stuart Woodman <stuart.woodman@csiro.au>,,,,
+13521,~YAN073,thredds2csw,CSIRO Environment,    Author: 10 Jonathan Yu <jonathan.yu@csiro.au>,,,,
+13726,~YAN073,geoharvestor,-,-,EMPTY,EMPTY,EMPTY,EMPTY
+13728,~YAN073,geoharvester,DATA61<,    Author: 18 Bo Yan <bo.yan@csiro.au>,,,,
+13477,ZBX,ansible-playbooks,CSIRO IM&T,"    Author: 1 Cheeseman, Brian (IM&T, Black Mountain) <Brian.Cheeseman@csiro.au>",,,,
+13486,ZBX,packaging,CSIRO IM&T,"    Author: 28 Cheeseman, Brian (IM&T, Black Mountain) <Brian.Cheeseman@csiro.au>",,,,
+13436,~ZHA149,ws-execution-core,UNKNOWN - possible mirror,    Author: 12 zhangzikai <zikaizhang@gmail.com>,,,,
+13801,~ZHA149,generaldoc,DATA61,"    Author: 3 Zhang, Zikai (Data61, Clayton) <Zikai.Zhang@data61.csiro.au>",,,,
+13068,~ZHA197,adult_infer,UNKNOWN - possible mirror,    Author: 11 Ben Zhao <ben.zhao@csiro.com.au>,,,,
+13116,~ZHA197,location_infer,UNKNOWN - possible mirror,    Author: 18 Ben Zhao <ben.zhao@csiro.com.au>,,,,
+13225,~ZHA197,purchase_infer,UNKNOWN - possible mirror,    Author: 38 Ben Zhao <ben.zhao@csiro.com.au>,,,,
+13394,~ZHA197,acceptance_region,UNKNOWN - possible mirror,    Author: 2 Ben Zhao <ben.zhao@csiro.com.au>,,,,
+13010,~ZWA005,optisink_2019_yanco_full-plots_design,CSIRO A&F,    Author: 1 Alexander Zwart <zwa005@csiro.au>,,,,
+13011,~ZWA005,optisink_2019_yanco_hege-rows_design,CSIRO A&F,    Author: 2 Alexander Zwart <zwa005@csiro.au>,,,,
+13060,~ZWA005,grdc_canola-phenology_glasshouse_2019_design,CSIRO A&F,    Author: 26 Alexander Zwart <zwa005@csiro.au>,,,,
+13063,~ZWA005,17_18spikedevcef,CSIRO A&F,    Author: 12 Alexander Zwart <zwa005@csiro.au>,,,,
+13138,~ZWA005,18spikedevcef_grain-number-distribution,CSIRO A&F,    Author: 4 Alexander Zwart <zwa005@csiro.au>,,,,
+13238,~ZWA005,aciar_2019_benchmark_24-lines_na,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13238.info.txt>13238</a>,ARCHIVED
+13322,~ZWA005,spikedev_pigment-field-trial_2019,CSIRO A&F,    Author: 5 Alexander Zwart <zwa005@csiro.au>,,,,
+13454,~ZWA005,gasextools_data,CSIRO A&F,    Author: 7 Alexander Zwart <zwa005@csiro.au>,,,,
+13461,~ZWA005,temp_git_repo,CSIRO A&F,    Author: 1 Alexander Zwart <zwa005@csiro.au>,,,,
+13517,~ZWA005,epue_yield-biomass_2017-2018_qtl-analysis,CSIRO A&F,    Author: 220 Alexander Zwart <zwa005@csiro.au>,,,,
+1356,~ZWA005,bayer-magic-narrabri-4way-2013-field,CSIRO A&F,    Author: 3 Alexander Zwart <zwa005@csiro.au>,,,,
+13622,~ZWA005,aciar-bangladesh_hydroponic-150-lines_2019,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13622.info.txt>13622</a>,ARCHIVED
+13791,~ZWA005,aciar_bangladesh_salt_tol_screen_2019,-,-,ARCHIVED,ARCHIVED,<a href=https://bbmigration-001.it.csiro.au/info/13791.info.txt>13791</a>,ARCHIVED
+13799,~ZWA005,design_yuzi-wang_starch-degradability-assay_2019,CSIRO A&F,    Author: 5 Alexander Zwart <zwa005@csiro.au>,,,,
+13895,~ZWA005,optisink_2018_hege-rows_nir,CSIRO A&F,    Author: 5 Alexander Zwart <zwa005@csiro.au>,,,,
