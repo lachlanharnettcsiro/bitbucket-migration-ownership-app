@@ -1,0 +1,45 @@
+%>%                     The magrittr pipe
+add_attachment          Add a file attachment to an email message
+add_cta_button          Create an HTML fragment for a CTA button
+add_ggplot              Create an HTML fragment for an embedded ggplot
+                        image
+add_image               Create an HTML fragment for an embedded image
+add_imgur_image         Deploy a local image to Imgur and create an
+                        image tag
+add_readable_time       Create a string with a more readable date/time
+article                 Specify the components of an article
+attach_connect_email    Associate an email when publishing an R
+                        Markdown document to Posit Connect
+blastula_email          The R Markdown 'blastula_email' output format
+blastula_template       Default template for 'compose_email()'
+block_articles          A block of one, two, or three articles with a
+                        multicolumn layout
+block_social_links      A block of social sharing icons with links
+block_spacer            A spacer block
+block_text              A block of text
+block_title             A block with large title text
+blocks                  An enclosure for all HTML block functions
+compose_email           Create the email message body
+create_smtp_creds_file
+                        Store SMTP credentials in a file
+create_smtp_creds_key   Store SMTP credentials in the system's
+                        key-value store
+credential_helpers      Helpers for supplying SMTP credentials
+delete_all_credential_keys
+                        Delete all *blastula* credential keys
+delete_credential_key   Delete a single *blastula* credential key
+get_html_str            Get the HTML content of an email message
+md                      Interpret input text as Markdown-formatted text
+prepare_rsc_example_files
+                        Prepare example files for Posit Connect
+                        emailing with R Markdown
+prepare_test_message    Prepare a email test message object
+render_email            R Markdown render functions for the
+                        'blastula_email' output format
+send_by_mailgun         Send an email message through the Mailgun API
+smtp_send               Send an email message through SMTP
+social_link             Specify the components of a social link
+suppress_scheduled_email
+                        Suppress any scheduled emailing in Posit
+                        Connect
+view_credential_keys    View all available *blastula* credential keys

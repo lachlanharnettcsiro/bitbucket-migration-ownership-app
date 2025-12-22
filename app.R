@@ -3,7 +3,7 @@ library(DT)
 library(bslib)
 library(blastula)
 library(dplyr)
-library(bsicons)
+
 
 
 email_creds <- creds_anonymous(host = "smtp-relay.csiro.au", port = 25, use_ssl = FALSE)
