@@ -230,16 +230,16 @@ server <- function(input, output, session) {
       
       render_only <- file.exists("shiny-server/.deployment")
       
-      if (!render_only)
+      if (!render_only) {
         send_email(
           from = from_addr,
-          email_params = email_params,
+          email_params = email_params
         )
         
         showNotification("Claim submitted! An email has been sent to the migration team.", type = "message")
       
       
-      else {
+      } else {
         
         text_body <- build_text_email(email_params)
         
