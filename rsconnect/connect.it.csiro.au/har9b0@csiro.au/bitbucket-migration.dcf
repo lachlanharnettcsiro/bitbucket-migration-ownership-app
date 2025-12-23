@@ -5,9 +5,9 @@ account: har9b0@csiro.au
 server: connect.it.csiro.au
 hostUrl: https://connect.it.csiro.au/__api__
 appId: 396
-bundleId: 1402
+bundleId: 1582
 url: https://connect.it.csiro.au/content/aab9e717-8b30-46d2-96ef-51268e39ef64/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .RData|index_bu.csv
+ignoredFiles: .RData|index_bu.csv|publish.sh|README.md|shiny-server/.deployment|R_libs

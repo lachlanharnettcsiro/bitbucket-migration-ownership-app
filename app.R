@@ -86,10 +86,6 @@ send_email <- function(from, email_params) {
     subject = "Bitbucket Repositories Migration Claim",
     credentials = email_creds
   )
-  
-  html <- email_html(email)
-  
-  return(html)
 }
 
 ui <- page_fluid(
