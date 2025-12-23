@@ -3,7 +3,7 @@ library(DT)
 library(bslib)
 library(blastula)
 library(dplyr)
-library(bsicons)
+
 
 
 email_creds <- creds_anonymous(host = "smtp-relay.csiro.au", port = 25, use_ssl = FALSE)
@@ -13,22 +13,28 @@ email_creds <- creds_anonymous(host = "smtp-relay.csiro.au", port = 25, use_ssl 
 #' @description
 #' @param from Who is making the claim
 #' @param params Params for template
-send_email <- function(from, email_params) {
+send_email <- function(from, email_params, render_only=FALSE) {
   
   email <- render_connect_email(
     input = "bitbucket_repository_claim_email.Rmd",
     render_options = list(params = email_params),
     connect_footer = FALSE
   )
-
-  smtp_send(
-    email = email,
-    # to = schelp@csiro.au
-    to = "har9b0@csiro.au",
-    from = from,
-    subject = "Bitbucket Repositories Migration Claim",
-    credentials = email_creds
-  )
+  
+  if (!render_only) {
+    smtp_send(
+      email = email,
+      # to = schelp@csiro.au
+      to = "har9b0@csiro.au",
+      from = from,
+      subject = "Bitbucket Repositories Migration Claim",
+      credentials = email_creds
+    )
+  }
+  
+  html <- email_html(email)
+  
+  return(html)
 }
 
 ui <- page_fluid(
@@ -66,17 +72,36 @@ ui <- page_fluid(
             ),
           )
       ),
-      card(
-        card_header("Claim a Repository"),
-        card_body(
+      
+      if (file.exists("shiny-server/.deployment")) {
+        tagList(
+          card(
+            card_header("Generate Email"),
+            card_body(
+              p("To claim specific repositories listed in the table, select the relevant rows, enter a contact email and associated information in the below fields, then click the generate email. "),
+              div(class = "center-inputs",
+                  textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
+                  textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
+                  actionButton("claim", "Generate Email")
+              )
+            )
+          )
+        )
+      } else {
+        tagList(
+          card(
+            card_header("Claim a Repository"),
+            card_body(
               p("To claim specific repositories listed in the table, select the relevant rows, enter an email address and associated information in the below fields, then click the submit ticket button. "),
               div(class = "center-inputs",
-                textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
-                textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
-                actionButton("claim", "Submit Ticket")
+                  textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
+                  textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
+                  actionButton("claim", "Submit Ticket")
               )
+            )
+          )
         )
-      ),
+      }
     ),
     
     card(
@@ -146,9 +171,12 @@ server <- function(input, output, session) {
         return()
       }
       
-      send_email(
+      render_only <- file.exists("shiny-server/.deployment")
+      
+      email <- send_email(
         from = from_addr,
-        email_params = email_params
+        email_params = email_params,
+        render_only
       )
       
       showNotification("Claim submitted! An email has been sent to the migration team.", type = "message")
