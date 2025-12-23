@@ -249,16 +249,25 @@ server <- function(input, output, session) {
           body = text_body
         )
         
-        shinyjs::runjs(sprintf(
-          "window.location.href = '%s';",
-          mailto
-        ))
+        mailto <- paste(mailto, collapse = "")
+        
+        if (nchar(mailto) > 1800) {
+          showNotification(
+            "Email is too long to open automatically. Please copy it instead.",
+            type = "warning"
+          )
+        }
+        
+        runjs(sprintf("
+          var link = document.createElement('a');
+          link.href = '%s';
+          link.style.display = 'none';
+          document.body.appendChild(link);
+          link.click();
+          document.body.removeChild(link);
+        ", mailto))
       }
       
-      
-      
-      
-        
     })
 }
 
