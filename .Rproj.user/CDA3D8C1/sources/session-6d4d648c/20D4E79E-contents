@@ -3,17 +3,74 @@ library(DT)
 library(bslib)
 library(blastula)
 library(dplyr)
+library(shinyjs)
 
 
 
 email_creds <- creds_anonymous(host = "smtp-relay.csiro.au", port = 25, use_ssl = FALSE)
+
+`%||%` <- function(x, y) {
+  if (is.null(x) || length(x) == 0 || is.na(x)) y else x
+}
+
+create_mailto <- function(
+    to,
+    subject,
+    body
+) {
+  paste0(
+    "mailto:", to,
+    "?subject=", utils::URLencode(subject, reserved = TRUE),
+    "&body=", utils::URLencode(body, reserved = TRUE)
+  )
+}
+
+build_text_email <- function(params) {
+  
+  paste(
+    "Hi Bitbucket Migration Team,",
+    "",
+    "The following repository IDs have been claimed:",
+    "",
+    render_text_table(params$BB_IDs),
+    "",
+    sprintf(
+      "The user has provided %s as the contact for these repositories.",
+      params$user %||% "<not provided>"
+    ),
+    "",
+    "The following details have been included in the claim:",
+    "",
+    params$message %||% "No additional message provided.",
+    "",
+    sprintf(
+      "The claim was submitted by %s.",
+      params$logged_in_user %||% "<unknown>"
+    ),
+    sep = "\n"
+  )
+}
+
+
+
+render_text_table <- function(ids) {
+  if (length(ids) == 0) {
+    return("No repository IDs were selected.")
+  }
+  
+  knitr::kable(
+    data.frame(BB_ID = ids),
+    format = "simple"
+  )
+}
+
 
 #' Sends email for bitbucket repo claims
 #'
 #' @description
 #' @param from Who is making the claim
 #' @param params Params for template
-send_email <- function(from, email_params, render_only=FALSE) {
+send_email <- function(from, email_params) {
   
   email <- render_connect_email(
     input = "bitbucket_repository_claim_email.Rmd",
@@ -21,16 +78,14 @@ send_email <- function(from, email_params, render_only=FALSE) {
     connect_footer = FALSE
   )
   
-  if (!render_only) {
-    smtp_send(
-      email = email,
-      # to = schelp@csiro.au
-      to = "har9b0@csiro.au",
-      from = from,
-      subject = "Bitbucket Repositories Migration Claim",
-      credentials = email_creds
-    )
-  }
+  smtp_send(
+    email = email,
+    # to = schelp@csiro.au
+    to = "har9b0@csiro.au",
+    from = from,
+    subject = "Bitbucket Repositories Migration Claim",
+    credentials = email_creds
+  )
   
   html <- email_html(email)
   
@@ -38,6 +93,8 @@ send_email <- function(from, email_params, render_only=FALSE) {
 }
 
 ui <- page_fluid(
+    useShinyjs(),
+  
     theme = bs_theme(version = 5),
   
     tags$head(
@@ -173,13 +230,33 @@ server <- function(input, output, session) {
       
       render_only <- file.exists("shiny-server/.deployment")
       
-      email <- send_email(
-        from = from_addr,
-        email_params = email_params,
-        render_only
-      )
+      if (!render_only)
+        send_email(
+          from = from_addr,
+          email_params = email_params,
+        )
+        
+        showNotification("Claim submitted! An email has been sent to the migration team.", type = "message")
       
-      showNotification("Claim submitted! An email has been sent to the migration team.", type = "message")
+      
+      else {
+        
+        text_body <- build_text_email(email_params)
+        
+        mailto <- create_mailto(
+          to = "schelp@csiro.au",
+          subject = "Bitbucket Repositories Migration Claim",
+          body = text_body
+        )
+        
+        shinyjs::runjs(sprintf(
+          "window.location.href = '%s';",
+          mailto
+        ))
+      }
+      
+      
+      
       
         
     })
