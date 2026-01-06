@@ -197,7 +197,10 @@ server <- function(input, output, session) {
     
     
     output$infoTable <- renderDataTable({
-      datatable(data, selection = "multiple", escape = FALSE, rownames = FALSE, filter = "top")
+      datatable(data, selection = "multiple", escape = FALSE, rownames = FALSE, filter = "top",
+                options = list(
+                  serverSide = FALSE
+                ))
     })
     
     if (exists("session")) {
