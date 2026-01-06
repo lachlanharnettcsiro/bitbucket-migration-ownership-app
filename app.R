@@ -81,7 +81,7 @@ send_email <- function(from, email_params) {
   smtp_send(
     email = email,
     # to = schelp@csiro.au
-    to = "har9b0@csiro.au",
+    to = "huy029@csiro.au",
     from = from,
     subject = "Bitbucket Repositories Migration Claim",
     credentials = email_creds
@@ -110,17 +110,18 @@ ui <- page_fluid(
           card_body(
             p(
               "
-              The following data is generated from a review of exported Bitbucket repository data, Active Directory and other available information on repositories and identities. The generated data is an attempt to link repository ownership to an individual or business unit.
+              This application helps users identify and claim orphaned Bitbucket repositories as part of the migration to GitHub. Confirming ownership is a critical step to ensure a smooth transition. To claim specific repositories, follow the instructions on the right-hand panel. A ticket will then be submitted to Scientific Computing to help update the records.
               "
             ),
             p(
               "
-              As the report generation is automated, there will be inconsistencies or errors made in the final determinations.
+              The information shown is based on a review of exported Bitbucket repository data, Active Directory, and other available sources related to repositories and identities. Its purpose is to link repository ownership to an individual or business unit. 
+              As this report is generated automatically, some inconsistencies or errors may occur in the final results.
               "
             ),
             p(
               "
-              This is part of the Bitbucket migration project, which is moving all of the current on-prem Bitbucket data to GitHub. Thank you for supporting the migration of repositories from Bitbucket to GitHub. Establishing ownership is a crucial part of this process.
+              This effort is part of the Bitbucket migration project, which involves moving all current on-premise Bitbucket data to GitHub. Thank you for supporting this migration.
               "
             ),
           )
@@ -143,9 +144,13 @@ ui <- page_fluid(
       } else {
         tagList(
           card(
-            card_header("Claim a Repository"),
+            card_header("How to Claim Repositories"),
             card_body(
-              p("To claim specific repositories listed in the table, select the relevant rows, provide details about the requested ownership changes in the field below and click ", strong("Submit Ticket"), " to send your Scientific Computing Help request."),
+              tags$ol(
+                tags$li("Select the rows for the repositories you want to claim from the table."),
+                tags$li("Enter the details of the ownership changes in the field provided below."),
+                tags$li("Click ", strong("Submit Ticket"), " to send your request to the Scientific Computing Help team.")
+              ),
               div(class = "center-inputs",
                   textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
                   textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
@@ -168,6 +173,15 @@ ui <- page_fluid(
 
 
 server <- function(input, output, session) {
+  
+    # Autofills the email field with session$user
+    if (!file.exists("shiny-server/.deployment")) {
+      observe({
+        updateTextInput(session, "userEmail", value = session$user)
+        shinyjs::disable("userEmail")
+        
+      })
+    }
 
     # Getting 403 Forbidden?
     data <- read.csv("https://bbmigration-001.it.csiro.au/index_bu.csv", sep=";")
