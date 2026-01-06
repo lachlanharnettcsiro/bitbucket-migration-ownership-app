@@ -41,8 +41,6 @@ if (!is.null(params$BB_IDs) && length(params$BB_IDs) > 0) {
 }
 ```
 
-The user has provided `r params$user` as the contact for these repositories.
-
 The following details have been included in the claim:
 
 ```{r}
