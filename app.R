@@ -101,7 +101,7 @@ ui <- page_fluid(
     # Application title
     br(),
     card(class = "title-container",
-      titlePanel("Bitbucket Migration - Repository Ownership (WIP)", "Bitbucket Migration Ownership"),
+      titlePanel("Bitbucket Migration - Repository Ownership", "Bitbucket Migration Ownership"),
     ),
     
     layout_columns(
@@ -145,7 +145,7 @@ ui <- page_fluid(
           card(
             card_header("Claim a Repository"),
             card_body(
-              p("To claim specific repositories listed in the table, select the relevant rows, enter an email address and associated information in the below fields, then click the submit ticket button. "),
+              p("To claim specific repositories listed in the table, select the relevant rows, provide details about the requested ownership changes in the field below and click ", strong("Submit Ticket"), " to send your Scientific Computing Help request."),
               div(class = "center-inputs",
                   textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
                   textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
