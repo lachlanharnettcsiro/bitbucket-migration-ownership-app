@@ -118,7 +118,7 @@ ui <- page_fluid(
               "
             ),
             p(
-              "The information displayed is based on a review of exported Bitbucket data, Entra, and other available sources related to repositories and identities. Its purpose is to link each repository to the correct individual or research unit. Please note that this report is generated automatically, so occasional inconsistencies or errors may occur.",
+              "The information displayed is based on a review of exported Bitbucket data and other available sources related to repositories and identities. Its purpose is to link each repository to the correct individual or research unit. Please note that this report is generated automatically, so occasional inconsistencies or errors may occur.",
               br(),
               br(),
               "Thank you for supporting the migration to GitHub."
@@ -147,7 +147,13 @@ ui <- page_fluid(
             card_body(
               tags$ol(
                 tags$li("Select the rows for the repositories you want to claim from the table."),
-                tags$li("Enter the details of the ownership changes in the field provided below."),
+                tags$li(
+                  "Enter the details of the ownership changes in the field provided below, including:",
+                  tags$ul(
+                    tags$li("New owner's ident (if available) or preferred first and last name"),
+                    tags$li("Research unit")
+                  )
+                ),
                 tags$li("Click ", strong("Submit Ticket"), " to send your request to the Scientific Computing Help team.")
               ),
               div(class = "center-inputs",
@@ -156,7 +162,7 @@ ui <- page_fluid(
                   actionButton("claim", "Submit Ticket")
               )
             )
-          )
+        )
         )
       }
     ),
