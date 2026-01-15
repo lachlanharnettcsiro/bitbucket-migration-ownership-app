@@ -80,8 +80,7 @@ send_email <- function(from, email_params) {
   
   smtp_send(
     email = email,
-    # to = schelp@csiro.au
-    to = "huy029@csiro.au",
+    to = "schelp@csiro.au",
     from = from,
     subject = "Bitbucket Repositories Migration Claim",
     credentials = email_creds
@@ -108,21 +107,21 @@ ui <- page_fluid(
       card(
         card_header("Project Information"),
           card_body(
+            p(strong(
+              "
+              This application streamlines the process of identifying and claiming orphaned Bitbucket repositories as part of the migration to GitHub. Confirming ownership is an essential step to ensure a smooth and accurate transition.
+              "
+            )),
             p(
               "
-              This application helps users identify and claim orphaned Bitbucket repositories as part of the migration to GitHub. Confirming ownership is a critical step to ensure a smooth transition. To claim specific repositories, follow the instructions on the right-hand panel. A ticket will then be submitted to Scientific Computing to help update the records.
+              To claim a repository, simply follow the instructions in the right-hand panel. Once completed, a ticket will be submitted to Scientific Computing to update the records accordingly.
               "
             ),
             p(
-              "
-              The information shown is based on a review of exported Bitbucket repository data, Active Directory, and other available sources related to repositories and identities. Its purpose is to link repository ownership to an individual or business unit. 
-              As this report is generated automatically, some inconsistencies or errors may occur in the final results.
-              "
-            ),
-            p(
-              "
-              This effort is part of the Bitbucket migration project, which involves moving all current on-premise Bitbucket data to GitHub. Thank you for supporting this migration.
-              "
+              "The information displayed is based on a review of exported Bitbucket data, Entra, and other available sources related to repositories and identities. Its purpose is to link each repository to the correct individual or research unit. Please note that this report is generated automatically, so occasional inconsistencies or errors may occur.",
+              br(),
+              br(),
+              "Thank you for supporting the migration to GitHub."
             ),
           )
       ),
@@ -174,6 +173,7 @@ ui <- page_fluid(
 
 server <- function(input, output, session) {
   
+  
     # Autofills the email field with session$user
     if (!file.exists("shiny-server/.deployment")) {
       observe({
@@ -182,7 +182,9 @@ server <- function(input, output, session) {
         
       })
     }
-
+  
+    session$allowReconnect(TRUE)
+  
     # Getting 403 Forbidden?
     data <- read.csv("https://bbmigration-001.it.csiro.au/index_bu.csv", sep=";")
     # data <- read.csv("index_bu.csv")
@@ -197,11 +199,8 @@ server <- function(input, output, session) {
     
     
     output$infoTable <- renderDataTable({
-      datatable(data, selection = "multiple", escape = FALSE, rownames = FALSE, filter = "top",
-                options = list(
-                  serverSide = FALSE
-                ))
-    })
+      datatable(data, selection = "multiple", escape = FALSE, rownames = FALSE, filter = "top")
+    }, server = FALSE)
     
     if (exists("session")) {
       usr <- session$user
