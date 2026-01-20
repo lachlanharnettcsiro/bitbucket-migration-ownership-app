@@ -42,12 +42,7 @@ build_text_email <- function(params) {
     "The following details have been included in the claim:",
     "",
     params$message %||% "No additional message provided.",
-    "",
-    sprintf(
-      "The claim was submitted by %s.",
-      params$logged_in_user %||% "<unknown>"
-    ),
-    sep = "\n"
+    ""
   )
 }
 
@@ -129,17 +124,27 @@ ui <- page_fluid(
       if (file.exists("shiny-server/.deployment")) {
         tagList(
           card(
-            card_header("Generate Email"),
+            card_header("How to Claim Repositories"),
             card_body(
-              p("To claim specific repositories listed in the table, select the relevant rows, enter a contact email and associated information in the below fields, then click the generate email. "),
-              div(class = "center-inputs",
-                  textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
-                  textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
-                  actionButton("claim", "Generate Email")
+              tags$ol(
+                tags$li("Select the rows for the repositories you want to claim from the table."),
+                tags$li(
+                  "Enter the details of the ownership changes in the field provided below, including:",
+                  tags$ul(
+                    tags$li("New owner's ident (if available) or preferred first and last name"),
+                    tags$li("Research unit")
+                  )
+                ),
+                tags$li("Click", strong("Generate Email"), " to generate an email to send to the Scientific Computing Help team")
+              ),
+                div(class = "center-inputs",
+                    textInput("userEmail", NULL, placeholder = "Enter a contact email for the repos"),
+                    textAreaInput("userMessage", NULL, placeholder = "Enter associated information"),
+                    actionButton("claim", "Generate Email"))
               )
             )
           )
-        )
+        
       } else {
         tagList(
           card(
@@ -254,7 +259,7 @@ server <- function(input, output, session) {
           email_params = email_params
         )
         
-        showNotification("Claim submitted! An email has been sent to the migration team.", type = "message")
+        showNotification("Claim submitted! An email has been sent to the SC Help Team.", type = "message")
       
       
       } else {
@@ -285,6 +290,11 @@ server <- function(input, output, session) {
           document.body.removeChild(link);
         ", mailto))
       }
+      
+      # Reset the input fields
+      updateTextInput(session, "userMessage", value = "")
+      
+      dataTableProxy("infoTable") %>% selectRows(NULL)
       
     })
 }
