@@ -32,7 +32,7 @@ build_text_email <- function(params) {
     "",
     "The following repository IDs have been claimed:",
     "",
-    render_text_table(params$BB_IDs),
+    render_text_table(params$BB_IDs, params$BB_Repos),
     "",
     sprintf(
       "The user has provided %s as the contact for these repositories.",
@@ -42,19 +42,20 @@ build_text_email <- function(params) {
     "The following details have been included in the claim:",
     "",
     params$message %||% "No additional message provided.",
-    ""
+    "",
+    sep ="\n"
   )
 }
 
 
 
-render_text_table <- function(ids) {
+render_text_table <- function(ids, repos) {
   if (length(ids) == 0) {
     return("No repository IDs were selected.")
   }
   
   knitr::kable(
-    data.frame(BB_ID = ids),
+    data.frame(BB_ID = ids, BB_Repo = repos),
     format = "simple"
   )
 }
@@ -203,7 +204,7 @@ server <- function(input, output, session) {
     data$Repo_Info_Link <- ifelse(
       grepl("^https?://", data$Repo_Info_Link),  
       sprintf("<a href='%s' target='_blank'>%s</a>", 
-              data$Repo_Info_Link, 
+              data$Repo_Info_Link,
               data$Repo_Info_Link),
       data$Repo_Info_Link                         
     )
@@ -235,11 +236,13 @@ server <- function(input, output, session) {
       }
       
       ids_claimed <- data[selected_rows, "BB_ID"]
+      repos_claimed <- data[selected_rows, "BB_Repo"]
       
       from_addr <- input$userEmail
       
       email_params <- list(
         BB_IDs = ids_claimed,
+        BB_Repos = repos_claimed,
         message = input$userMessage,
         user = from_addr,
         logged_in_user = logged_in

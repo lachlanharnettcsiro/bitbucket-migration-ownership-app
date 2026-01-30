@@ -3,6 +3,7 @@ title: "Bitbucket Repository Claim"
 output: blastula::blastula_email
 params:
   BB_IDs: NULL
+  BB_Repos: NULL
   message: NULL
   user: NULL
   logged_in_user: NULL
@@ -24,7 +25,8 @@ library(kableExtra)
 library(htmltools)
 
 if (!is.null(params$BB_IDs) && length(params$BB_IDs) > 0) {
-  df <- data.frame(BB_ID = params$BB_IDs)
+  df <- data.frame(BB_ID = params$BB_IDs,
+                   BB_Repo = params$BB_Repos)
   
   kable(df, format = "html") %>%
     kable_styling(
