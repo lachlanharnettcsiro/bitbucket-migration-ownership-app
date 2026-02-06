@@ -4,6 +4,7 @@ library(bslib)
 library(blastula)
 library(dplyr)
 library(shinyjs)
+library(openxlsx)
 
 
 
@@ -54,10 +55,12 @@ render_text_table <- function(ids, repos) {
     return("No repository IDs were selected.")
   }
   
-  knitr::kable(
+  table_output <-knitr::kable(
     data.frame(BB_ID = ids, BB_Repo = repos),
     format = "simple"
   )
+  
+  paste(table_output, collapse = "\n")
 }
 
 
@@ -175,8 +178,14 @@ ui <- page_fluid(
     
     card(
       class = "info-table",
-      card_header("Table of Bitbucket Projects"),
+      height = "800px",
+      card_header(
+        "Table of Bitbucket Projects",
+        class = "d-flex justify-content-between align-items-center",
+        downloadButton("downloadExcel", "Download Excel", class = "btn-sm")
+        ),
       card_body(
+        min_height = "700px",
         dataTableOutput("infoTable")
       )
     )
@@ -200,7 +209,12 @@ server <- function(input, output, session) {
     # Getting 403 Forbidden?
     data <- read.csv("https://bbmigration-001.it.csiro.au/index_bu.csv", sep=";")
     # data <- read.csv("index_bu.csv")
-  
+    
+    # Rename 4th column to "Possible_RU
+    colnames(data)[4] <- "Possible_RU"
+    
+    data_original <- data
+        
     data$Repo_Info_Link <- ifelse(
       grepl("^https?://", data$Repo_Info_Link),  
       sprintf("<a href='%s' target='_blank'>%s</a>", 
@@ -213,6 +227,51 @@ server <- function(input, output, session) {
     output$infoTable <- renderDataTable({
       datatable(data, selection = "multiple", escape = FALSE, rownames = FALSE, filter = "top")
     }, server = FALSE)
+    
+    
+    # Header style for Excel export
+    headerStyle <- createStyle(
+      fontColour = "#FFFFFF",
+      fgFill = "#366092",
+      textDecoration = "bold",
+      halign = "center",
+      valign = "center",
+      wrapText = TRUE
+    )
+    
+    # Download handler for filtered data
+    output$downloadExcel <- downloadHandler(
+      filename = function() {
+        paste0("bitbucket_migration_", format(Sys.time(), "%Y%m%d_%H%M%S"), ".xlsx")
+      },
+      content = function(file) {
+        # Get filtered rows from data table
+        filtered_data <- data_original
+        
+        if (!is.null(input$infoTable_rows_all)) {
+          filtered_data <- data_original[input$infoTable_rows_all, ]
+        }
+        
+        # Remove the last column (notes)
+        filtered_data <- filtered_data[, -ncol(filtered_data)]
+        
+        # Create workbook and add data
+        wb <- createWorkbook()
+        addWorksheet(wb, "Data")
+        writeData(wb, "Data", filtered_data)
+        
+        # Apply header style to all columns
+        addStyle(wb, "Data", headerStyle, rows = 1, cols = 1:ncol(filtered_data))
+        
+        # Adjust column widths automatically
+        setColWidths(wb, "Data", cols = 1:ncol(filtered_data), widths = "auto")
+        
+        # Save workbook
+        saveWorkbook(wb, file)
+        
+      }
+    )
+    
     
     if (exists("session")) {
       usr <- session$user
