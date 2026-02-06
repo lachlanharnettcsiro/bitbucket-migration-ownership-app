@@ -182,8 +182,17 @@ ui <- page_fluid(
       card_header(
         "Table of Bitbucket Projects",
         class = "d-flex justify-content-between align-items-center",
-        downloadButton("downloadExcel", "Download Excel", class = "btn-sm")
-        ),
+        div(
+          tags$span(
+            style = "margin-right: 8px; cursor: pointer;",
+            `data-bs-toggle` = "tooltip",
+            `data-bs-placement` = "left",
+            title = "Select Download Excel for a copy of your search results",
+            icon("circle-info")
+          ),
+          downloadButton("downloadExcel", "Download Excel", class = "btn-sm")
+        )
+      ),
       card_body(
         min_height = "700px",
         dataTableOutput("infoTable")
@@ -194,6 +203,13 @@ ui <- page_fluid(
 
 server <- function(input, output, session) {
   
+  # Initialise Bootstrap tooltips
+  runjs("
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle=\"tooltip\"]'))
+        vartooltipList = tooltipTriggerList.map(function (tooltipTriggerE1) {
+        return new bootstrap.Tooltip(tooltipTriggerE1)
+        })
+        ")
   
     # Autofills the email field with session$user
     if (!file.exists("shiny-server/.deployment")) {
